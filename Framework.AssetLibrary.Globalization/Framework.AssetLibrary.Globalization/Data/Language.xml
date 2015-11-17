@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languages>  
+  <language languagecodethreeletter="aar" languagecodetwoletter="aa" languagename="Afar" />
+  <language languagecodethreeletter="abk" languagecodetwoletter="ab" languagename="Abkhazian" />
+  <language languagecodethreeletter="afr" languagecodetwoletter="af" languagename="Afrikaans" />
+  <language languagecodethreeletter="aka" languagecodetwoletter="ak" languagename="Akan" />
+  <language languagecodethreeletter="alb" languagecodetwoletter="sq" languagename="Albanian" />
+  <language languagecodethreeletter="amh" languagecodetwoletter="am" languagename="Amharic" />
+  <language languagecodethreeletter="ara" languagecodetwoletter="ar" languagename="Arabic" />
+  <language languagecodethreeletter="arg" languagecodetwoletter="an" languagename="Aragonese" />
+  <language languagecodethreeletter="arm" languagecodetwoletter="hy" languagename="Armenian" />
+  <language languagecodethreeletter="asm" languagecodetwoletter="as" languagename="Assamese" />
+  <language languagecodethreeletter="ava" languagecodetwoletter="av" languagename="Avaric" />
+  <language languagecodethreeletter="ave" languagecodetwoletter="ae" languagename="Avestan" />
+  <language languagecodethreeletter="aym" languagecodetwoletter="ay" languagename="Aymara" />
+  <language languagecodethreeletter="aze" languagecodetwoletter="az" languagename="Azerbaijani" />
+  <language languagecodethreeletter="bak" languagecodetwoletter="ba" languagename="Bashkir" />
+  <language languagecodethreeletter="bam" languagecodetwoletter="bm" languagename="Bambara" />
+  <language languagecodethreeletter="baq" languagecodetwoletter="eu" languagename="Basque" />
+  <language languagecodethreeletter="bel" languagecodetwoletter="be" languagename="Belarusian" />
+  <language languagecodethreeletter="ben" languagecodetwoletter="bn" languagename="Bengali" />
+  <language languagecodethreeletter="bih" languagecodetwoletter="bh" languagename="Bihari languages" />
+  <language languagecodethreeletter="bis" languagecodetwoletter="bi" languagename="Bislama" />
+  <language languagecodethreeletter="bos" languagecodetwoletter="bs" languagename="Bosnian" />
+  <language languagecodethreeletter="bre" languagecodetwoletter="br" languagename="Breton" />
+  <language languagecodethreeletter="bul" languagecodetwoletter="bg" languagename="Bulgarian" />
+  <language languagecodethreeletter="bur" languagecodetwoletter="my" languagename="Burmese" />
+  <language languagecodethreeletter="cat" languagecodetwoletter="ca" languagename="Catalan; Valencian" />
+  <language languagecodethreeletter="cha" languagecodetwoletter="ch" languagename="Chamorro" />
+  <language languagecodethreeletter="che" languagecodetwoletter="ce" languagename="Chechen" />
+  <language languagecodethreeletter="chi" languagecodetwoletter="zh" languagename="Chinese" />
+  <language languagecodethreeletter="chu" languagecodetwoletter="cu" languagename="Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic" />
+  <language languagecodethreeletter="chv" languagecodetwoletter="cv" languagename="Chuvash" />
+  <language languagecodethreeletter="cor" languagecodetwoletter="kw" languagename="Cornish" />
+  <language languagecodethreeletter="cos" languagecodetwoletter="co" languagename="Corsican" />
+  <language languagecodethreeletter="cre" languagecodetwoletter="cr" languagename="Cree" />
+  <language languagecodethreeletter="cze" languagecodetwoletter="cs" languagename="Czech" />
+  <language languagecodethreeletter="dan" languagecodetwoletter="da" languagename="Danish" />
+  <language languagecodethreeletter="div" languagecodetwoletter="dv" languagename="Divehi; Dhivehi; Maldivian" />
+  <language languagecodethreeletter="dut" languagecodetwoletter="nl" languagename="Dutch; Flemish" />
+  <language languagecodethreeletter="dzo" languagecodetwoletter="dz" languagename="Dzongkha" />
+  <language languagecodethreeletter="eng" languagecodetwoletter="en" languagename="English" />
+  <language languagecodethreeletter="epo" languagecodetwoletter="eo" languagename="Esperanto" />
+  <language languagecodethreeletter="est" languagecodetwoletter="et" languagename="Estonian" />
+  <language languagecodethreeletter="ewe" languagecodetwoletter="ee" languagename="Ewe" />
+  <language languagecodethreeletter="fao" languagecodetwoletter="fo" languagename="Faroese" />
+  <language languagecodethreeletter="fij" languagecodetwoletter="fj" languagename="Fijian" />
+  <language languagecodethreeletter="fin" languagecodetwoletter="fi" languagename="Finnish" />
+  <language languagecodethreeletter="fre" languagecodetwoletter="fr" languagename="French" />
+  <language languagecodethreeletter="fry" languagecodetwoletter="fy" languagename="Western Frisian" />
+  <language languagecodethreeletter="ful" languagecodetwoletter="ff" languagename="Fulah" />
+  <language languagecodethreeletter="geo" languagecodetwoletter="ka" languagename="Georgian" />
+  <language languagecodethreeletter="ger" languagecodetwoletter="de" languagename="German" />
+  <language languagecodethreeletter="gla" languagecodetwoletter="gd" languagename="Gaelic; Scottish Gaelic" />
+  <language languagecodethreeletter="gle" languagecodetwoletter="ga" languagename="Irish" />
+  <language languagecodethreeletter="glg" languagecodetwoletter="gl" languagename="Galician" />
+  <language languagecodethreeletter="glv" languagecodetwoletter="gv" languagename="Manx" />
+  <language languagecodethreeletter="gre" languagecodetwoletter="el" languagename="Greek, Modern (1453-)" />
+  <language languagecodethreeletter="grn" languagecodetwoletter="gn" languagename="Guarani" />
+  <language languagecodethreeletter="guj" languagecodetwoletter="gu" languagename="Gujarati" />
+  <language languagecodethreeletter="hat" languagecodetwoletter="ht" languagename="Haitian; Haitian Creole" />
+  <language languagecodethreeletter="hau" languagecodetwoletter="ha" languagename="Hausa" />
+  <language languagecodethreeletter="heb" languagecodetwoletter="he" languagename="Hebrew" />
+  <language languagecodethreeletter="her" languagecodetwoletter="hz" languagename="Herero" />
+  <language languagecodethreeletter="hin" languagecodetwoletter="hi" languagename="Hindi" />
+  <language languagecodethreeletter="hmo" languagecodetwoletter="ho" languagename="Hiri Motu" />
+  <language languagecodethreeletter="hrv" languagecodetwoletter="hr" languagename="Croatian" />
+  <language languagecodethreeletter="hun" languagecodetwoletter="hu" languagename="Hungarian" />
+  <language languagecodethreeletter="ibo" languagecodetwoletter="ig" languagename="Igbo" />
+  <language languagecodethreeletter="ice" languagecodetwoletter="is" languagename="Icelandic" />
+  <language languagecodethreeletter="ido" languagecodetwoletter="io" languagename="Ido" />
+  <language languagecodethreeletter="iii" languagecodetwoletter="ii" languagename="Sichuan Yi; Nuosu" />
+  <language languagecodethreeletter="iku" languagecodetwoletter="iu" languagename="Inuktitut" />
+  <language languagecodethreeletter="ile" languagecodetwoletter="ie" languagename="Interlingue; Occidental" />
+  <language languagecodethreeletter="ina" languagecodetwoletter="ia" languagename="Interlingua (International Auxiliary Language Association)" />
+  <language languagecodethreeletter="ind" languagecodetwoletter="id" languagename="Indonesian" />
+  <language languagecodethreeletter="ipk" languagecodetwoletter="ik" languagename="Inupiaq" />
+  <language languagecodethreeletter="ita" languagecodetwoletter="it" languagename="Italian" />
+  <language languagecodethreeletter="jav" languagecodetwoletter="jv" languagename="Javanese" />
+  <language languagecodethreeletter="jpn" languagecodetwoletter="ja" languagename="Japanese" />
+  <language languagecodethreeletter="kal" languagecodetwoletter="kl" languagename="Kalaallisut; Greenlandic" />
+  <language languagecodethreeletter="kan" languagecodetwoletter="kn" languagename="Kannada" />
+  <language languagecodethreeletter="kas" languagecodetwoletter="ks" languagename="Kashmiri" />
+  <language languagecodethreeletter="kau" languagecodetwoletter="kr" languagename="Kanuri" />
+  <language languagecodethreeletter="kaz" languagecodetwoletter="kk" languagename="Kazakh" />
+  <language languagecodethreeletter="khm" languagecodetwoletter="km" languagename="Central Khmer" />
+  <language languagecodethreeletter="kik" languagecodetwoletter="ki" languagename="Kikuyu; Gikuyu" />
+  <language languagecodethreeletter="kin" languagecodetwoletter="rw" languagename="Kinyarwanda" />
+  <language languagecodethreeletter="kir" languagecodetwoletter="ky" languagename="Kirghiz; Kyrgyz" />
+  <language languagecodethreeletter="kom" languagecodetwoletter="kv" languagename="Komi" />
+  <language languagecodethreeletter="kon" languagecodetwoletter="kg" languagename="Kongo" />
+  <language languagecodethreeletter="kor" languagecodetwoletter="ko" languagename="Korean" />
+  <language languagecodethreeletter="kua" languagecodetwoletter="kj" languagename="Kuanyama; Kwanyama" />
+  <language languagecodethreeletter="kur" languagecodetwoletter="ku" languagename="Kurdish" />
+  <language languagecodethreeletter="lao" languagecodetwoletter="lo" languagename="Lao" />
+  <language languagecodethreeletter="lat" languagecodetwoletter="la" languagename="Latin" />
+  <language languagecodethreeletter="lav" languagecodetwoletter="lv" languagename="Latvian" />
+  <language languagecodethreeletter="lim" languagecodetwoletter="li" languagename="Limburgan; Limburger; Limburgish" />
+  <language languagecodethreeletter="lin" languagecodetwoletter="ln" languagename="Lingala" />
+  <language languagecodethreeletter="lit" languagecodetwoletter="lt" languagename="Lithuanian" />
+  <language languagecodethreeletter="ltz" languagecodetwoletter="lb" languagename="Luxembourgish; Letzeburgesch" />
+  <language languagecodethreeletter="lub" languagecodetwoletter="lu" languagename="Luba-Katanga" />
+  <language languagecodethreeletter="lug" languagecodetwoletter="lg" languagename="Ganda" />
+  <language languagecodethreeletter="mac" languagecodetwoletter="mk" languagename="Macedonian" />
+  <language languagecodethreeletter="mah" languagecodetwoletter="mh" languagename="Marshallese" />
+  <language languagecodethreeletter="mal" languagecodetwoletter="ml" languagename="Malayalam" />
+  <language languagecodethreeletter="mao" languagecodetwoletter="mi" languagename="Maori" />
+  <language languagecodethreeletter="mar" languagecodetwoletter="mr" languagename="Marathi" />
+  <language languagecodethreeletter="may" languagecodetwoletter="ms" languagename="Malay" />
+  <language languagecodethreeletter="mlg" languagecodetwoletter="mg" languagename="Malagasy" />
+  <language languagecodethreeletter="mlt" languagecodetwoletter="mt" languagename="Maltese" />
+  <language languagecodethreeletter="mon" languagecodetwoletter="mn" languagename="Mongolian" />
+  <language languagecodethreeletter="nau" languagecodetwoletter="na" languagename="Nauru" />
+  <language languagecodethreeletter="nav" languagecodetwoletter="nv" languagename="Navajo; Navaho" />
+  <language languagecodethreeletter="nbl" languagecodetwoletter="nr" languagename="Ndebele, South; South Ndebele" />
+  <language languagecodethreeletter="nde" languagecodetwoletter="nd" languagename="Ndebele, North; North Ndebele" />
+  <language languagecodethreeletter="ndo" languagecodetwoletter="ng" languagename="Ndonga" />
+  <language languagecodethreeletter="nep" languagecodetwoletter="ne" languagename="Nepali" />
+  <language languagecodethreeletter="nno" languagecodetwoletter="nn" languagename="Norwegian Nynorsk; Nynorsk, Norwegian" />
+  <language languagecodethreeletter="nob" languagecodetwoletter="nb" languagename="Bokmål, Norwegian; Norwegian Bokmål" />
+  <language languagecodethreeletter="nor" languagecodetwoletter="no" languagename="Norwegian" />
+  <language languagecodethreeletter="nya" languagecodetwoletter="ny" languagename="Chichewa; Chewa; Nyanja" />
+  <language languagecodethreeletter="oci" languagecodetwoletter="oc" languagename="Occitan (post 1500); Provençal" />
+  <language languagecodethreeletter="oji" languagecodetwoletter="oj" languagename="Ojibwa" />
+  <language languagecodethreeletter="ori" languagecodetwoletter="or" languagename="Oriya" />
+  <language languagecodethreeletter="orm" languagecodetwoletter="om" languagename="Oromo" />
+  <language languagecodethreeletter="oss" languagecodetwoletter="os" languagename="Ossetian; Ossetic" />
+  <language languagecodethreeletter="pan" languagecodetwoletter="pa" languagename="Panjabi; Punjabi" />
+  <language languagecodethreeletter="per" languagecodetwoletter="fa" languagename="Persian" />
+  <language languagecodethreeletter="pli" languagecodetwoletter="pi" languagename="Pali" />
+  <language languagecodethreeletter="pol" languagecodetwoletter="pl" languagename="Polish" />
+  <language languagecodethreeletter="por" languagecodetwoletter="pt" languagename="Portuguese" />
+  <language languagecodethreeletter="pus" languagecodetwoletter="ps" languagename="Pushto; Pashto" />
+  <language languagecodethreeletter="que" languagecodetwoletter="qu" languagename="Quechua" />
+  <language languagecodethreeletter="roh" languagecodetwoletter="rm" languagename="Romansh" />
+  <language languagecodethreeletter="rum" languagecodetwoletter="ro" languagename="Romanian; Moldavian; Moldovan" />
+  <language languagecodethreeletter="run" languagecodetwoletter="rn" languagename="Rundi" />
+  <language languagecodethreeletter="rus" languagecodetwoletter="ru" languagename="Russian" />
+  <language languagecodethreeletter="sag" languagecodetwoletter="sg" languagename="Sango" />
+  <language languagecodethreeletter="san" languagecodetwoletter="sa" languagename="Sanskrit" />
+  <language languagecodethreeletter="sin" languagecodetwoletter="si" languagename="Sinhala; Sinhalese" />
+  <language languagecodethreeletter="slo" languagecodetwoletter="sk" languagename="Slovak" />
+  <language languagecodethreeletter="slv" languagecodetwoletter="sl" languagename="Slovenian" />
+  <language languagecodethreeletter="sme" languagecodetwoletter="se" languagename="Northern Sami" />
+  <language languagecodethreeletter="smo" languagecodetwoletter="sm" languagename="Samoan" />
+  <language languagecodethreeletter="sna" languagecodetwoletter="sn" languagename="Shona" />
+  <language languagecodethreeletter="snd" languagecodetwoletter="sd" languagename="Sindhi" />
+  <language languagecodethreeletter="som" languagecodetwoletter="so" languagename="Somali" />
+  <language languagecodethreeletter="sot" languagecodetwoletter="st" languagename="Sotho, Southern" />
+  <language languagecodethreeletter="spa" languagecodetwoletter="es" languagename="Spanish; Castilian" />
+  <language languagecodethreeletter="srd" languagecodetwoletter="sc" languagename="Sardinian" />
+  <language languagecodethreeletter="srp" languagecodetwoletter="sr" languagename="Serbian" />
+  <language languagecodethreeletter="ssw" languagecodetwoletter="ss" languagename="Swati" />
+  <language languagecodethreeletter="sun" languagecodetwoletter="su" languagename="Sundanese" />
+  <language languagecodethreeletter="swa" languagecodetwoletter="sw" languagename="Swahili" />
+  <language languagecodethreeletter="swe" languagecodetwoletter="sv" languagename="Swedish" />
+  <language languagecodethreeletter="tah" languagecodetwoletter="ty" languagename="Tahitian" />
+  <language languagecodethreeletter="tam" languagecodetwoletter="ta" languagename="Tamil" />
+  <language languagecodethreeletter="tat" languagecodetwoletter="tt" languagename="Tatar" />
+  <language languagecodethreeletter="tel" languagecodetwoletter="te" languagename="Telugu" />
+  <language languagecodethreeletter="tgk" languagecodetwoletter="tg" languagename="Tajik" />
+  <language languagecodethreeletter="tgl" languagecodetwoletter="tl" languagename="Tagalog" />
+  <language languagecodethreeletter="tha" languagecodetwoletter="th" languagename="Thai" />
+  <language languagecodethreeletter="tib" languagecodetwoletter="bo" languagename="Tibetan" />
+  <language languagecodethreeletter="tir" languagecodetwoletter="ti" languagename="Tigrinya" />
+  <language languagecodethreeletter="ton" languagecodetwoletter="to" languagename="Tonga (Tonga Islands)" />
+  <language languagecodethreeletter="tsn" languagecodetwoletter="tn" languagename="Tswana" />
+  <language languagecodethreeletter="tso" languagecodetwoletter="ts" languagename="Tsonga" />
+  <language languagecodethreeletter="tuk" languagecodetwoletter="tk" languagename="Turkmen" />
+  <language languagecodethreeletter="tur" languagecodetwoletter="tr" languagename="Turkish" />
+  <language languagecodethreeletter="twi" languagecodetwoletter="tw" languagename="Twi" />
+  <language languagecodethreeletter="uig" languagecodetwoletter="ug" languagename="Uighur; Uyghur" />
+  <language languagecodethreeletter="ukr" languagecodetwoletter="uk" languagename="Ukrainian" />
+  <language languagecodethreeletter="urd" languagecodetwoletter="ur" languagename="Urdu" />
+  <language languagecodethreeletter="uzb" languagecodetwoletter="uz" languagename="Uzbek" />
+  <language languagecodethreeletter="ven" languagecodetwoletter="ve" languagename="Venda" />
+  <language languagecodethreeletter="vie" languagecodetwoletter="vi" languagename="Vietnamese" />
+  <language languagecodethreeletter="vol" languagecodetwoletter="vo" languagename="Volapük" />
+  <language languagecodethreeletter="wel" languagecodetwoletter="cy" languagename="Welsh" />
+  <language languagecodethreeletter="wln" languagecodetwoletter="wa" languagename="Walloon" />
+  <language languagecodethreeletter="wol" languagecodetwoletter="wo" languagename="Wolof" />
+  <language languagecodethreeletter="xho" languagecodetwoletter="xh" languagename="Xhosa" />
+  <language languagecodethreeletter="yid" languagecodetwoletter="yi" languagename="Yiddish" />
+  <language languagecodethreeletter="yor" languagecodetwoletter="yo" languagename="Yoruba" />
+  <language languagecodethreeletter="zha" languagecodetwoletter="za" languagename="Zhuang; Chuang" />
+  <language languagecodethreeletter="zul" languagecodetwoletter="zu" languagename="Zulu" />
+</languages>

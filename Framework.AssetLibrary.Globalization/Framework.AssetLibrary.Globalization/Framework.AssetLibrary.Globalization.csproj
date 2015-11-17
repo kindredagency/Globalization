@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54593FE5-C514-4987-8A06-058BAD6113F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Framework.AssetLibrary.Globalization</RootNamespace>
+    <AssemblyName>Framework.AssetLibrary.Globalization</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Framework.AssetLibrary.Caching, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Framework.AssetLibrary.Caching.1.0.0\lib\Framework.AssetLibrary.Caching.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Country.cs" />
+    <Compile Include="CountryTimeZone.cs" />
+    <Compile Include="Culture.cs" />
+    <Compile Include="GlobalizationFactory.cs" />
+    <Compile Include="Language.cs" />
+    <Compile Include="Models\_Country.cs" />
+    <Compile Include="Models\_CountryDetail.cs" />
+    <Compile Include="Models\_CountryLanguage.cs" />
+    <Compile Include="Models\_CountryTimeZone.cs" />
+    <Compile Include="Models\_Language.cs" />
+    <Compile Include="Models\_TimeZone.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GlobalizationRepository.cs" />
+    <Compile Include="TimeZone.cs" />
+    <Compile Include="Utility.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\CountryDetail.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\CountryTimeZone.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ad.png" />
+    <EmbeddedResource Include="Resources\ae.png" />
+    <EmbeddedResource Include="Resources\af.png" />
+    <EmbeddedResource Include="Resources\ag.png" />
+    <EmbeddedResource Include="Resources\ai.png" />
+    <EmbeddedResource Include="Resources\al.png" />
+    <EmbeddedResource Include="Resources\am.png" />
+    <EmbeddedResource Include="Resources\an.png" />
+    <EmbeddedResource Include="Resources\ao.png" />
+    <EmbeddedResource Include="Resources\aq.png" />
+    <EmbeddedResource Include="Resources\ar.png" />
+    <EmbeddedResource Include="Resources\as.png" />
+    <EmbeddedResource Include="Resources\at.png" />
+    <EmbeddedResource Include="Resources\au.png" />
+    <EmbeddedResource Include="Resources\aw.png" />
+    <EmbeddedResource Include="Resources\az.png" />
+    <EmbeddedResource Include="Resources\ba.png" />
+    <EmbeddedResource Include="Resources\bb.png" />
+    <EmbeddedResource Include="Resources\bd.png" />
+    <EmbeddedResource Include="Resources\be.png" />
+    <EmbeddedResource Include="Resources\bf.png" />
+    <EmbeddedResource Include="Resources\bg.png" />
+    <EmbeddedResource Include="Resources\bh.png" />
+    <EmbeddedResource Include="Resources\bi.png" />
+    <EmbeddedResource Include="Resources\bj.png" />
+    <EmbeddedResource Include="Resources\bm.png" />
+    <EmbeddedResource Include="Resources\bn.png" />
+    <EmbeddedResource Include="Resources\bo.png" />
+    <EmbeddedResource Include="Resources\br.png" />
+    <EmbeddedResource Include="Resources\bs.png" />
+    <EmbeddedResource Include="Resources\bt.png" />
+    <EmbeddedResource Include="Resources\bw.png" />
+    <EmbeddedResource Include="Resources\by.png" />
+    <EmbeddedResource Include="Resources\bz.png" />
+    <EmbeddedResource Include="Resources\ca.png" />
+    <EmbeddedResource Include="Resources\cd.png" />
+    <EmbeddedResource Include="Resources\cf.png" />
+    <EmbeddedResource Include="Resources\cg.png" />
+    <EmbeddedResource Include="Resources\ch.png" />
+    <EmbeddedResource Include="Resources\ci.png" />
+    <EmbeddedResource Include="Resources\ck.png" />
+    <EmbeddedResource Include="Resources\cl.png" />
+    <EmbeddedResource Include="Resources\cm.png" />
+    <EmbeddedResource Include="Resources\cn.png" />
+    <EmbeddedResource Include="Resources\co.png" />
+    <EmbeddedResource Include="Resources\cr.png" />
+    <EmbeddedResource Include="Resources\cu.png" />
+    <EmbeddedResource Include="Resources\cv.png" />
+    <EmbeddedResource Include="Resources\cy.png" />
+    <EmbeddedResource Include="Resources\cz.png" />
+    <EmbeddedResource Include="Resources\de.png" />
+    <EmbeddedResource Include="Resources\dj.png" />
+    <EmbeddedResource Include="Resources\dk.png" />
+    <EmbeddedResource Include="Resources\dm.png" />
+    <EmbeddedResource Include="Resources\do.png" />
+    <EmbeddedResource Include="Resources\dz.png" />
+    <EmbeddedResource Include="Resources\ec.png" />
+    <EmbeddedResource Include="Resources\ee.png" />
+    <EmbeddedResource Include="Resources\eg.png" />
+    <EmbeddedResource Include="Resources\eh.png" />
+    <EmbeddedResource Include="Resources\er.png" />
+    <EmbeddedResource Include="Resources\es.png" />
+    <EmbeddedResource Include="Resources\et.png" />
+    <EmbeddedResource Include="Resources\fi.png" />
+    <EmbeddedResource Include="Resources\fj.png" />
+    <EmbeddedResource Include="Resources\fm.png" />
+    <EmbeddedResource Include="Resources\fo.png" />
+    <EmbeddedResource Include="Resources\fr.png" />
+    <EmbeddedResource Include="Resources\ga.png" />
+    <EmbeddedResource Include="Resources\gb.png" />
+    <EmbeddedResource Include="Resources\gd.png" />
+    <EmbeddedResource Include="Resources\ge.png" />
+    <EmbeddedResource Include="Resources\gg.png" />
+    <EmbeddedResource Include="Resources\gh.png" />
+    <EmbeddedResource Include="Resources\gi.png" />
+    <EmbeddedResource Include="Resources\gl.png" />
+    <EmbeddedResource Include="Resources\gm.png" />
+    <EmbeddedResource Include="Resources\gn.png" />
+    <EmbeddedResource Include="Resources\gp.png" />
+    <EmbeddedResource Include="Resources\gq.png" />
+    <EmbeddedResource Include="Resources\gr.png" />
+    <EmbeddedResource Include="Resources\gt.png" />
+    <EmbeddedResource Include="Resources\gu.png" />
+    <EmbeddedResource Include="Resources\gw.png" />
+    <EmbeddedResource Include="Resources\gy.png" />
+    <EmbeddedResource Include="Resources\hk.png" />
+    <EmbeddedResource Include="Resources\hn.png" />
+    <EmbeddedResource Include="Resources\hr.png" />
+    <EmbeddedResource Include="Resources\ht.png" />
+    <EmbeddedResource Include="Resources\hu.png" />
+    <EmbeddedResource Include="Resources\id.png" />
+    <EmbeddedResource Include="Resources\ie.png" />
+    <EmbeddedResource Include="Resources\il.png" />
+    <EmbeddedResource Include="Resources\im.png" />
+    <EmbeddedResource Include="Resources\in.png" />
+    <EmbeddedResource Include="Resources\iq.png" />
+    <EmbeddedResource Include="Resources\ir.png" />
+    <EmbeddedResource Include="Resources\is.png" />
+    <EmbeddedResource Include="Resources\it.png" />
+    <EmbeddedResource Include="Resources\je.png" />
+    <EmbeddedResource Include="Resources\jm.png" />
+    <EmbeddedResource Include="Resources\jo.png" />
+    <EmbeddedResource Include="Resources\jp.png" />
+    <EmbeddedResource Include="Resources\ke.png" />
+    <EmbeddedResource Include="Resources\kg.png" />
+    <EmbeddedResource Include="Resources\kh.png" />
+    <EmbeddedResource Include="Resources\ki.png" />
+    <EmbeddedResource Include="Resources\km.png" />
+    <EmbeddedResource Include="Resources\kn.png" />
+    <EmbeddedResource Include="Resources\kp.png" />
+    <EmbeddedResource Include="Resources\kr.png" />
+    <EmbeddedResource Include="Resources\kw.png" />
+    <EmbeddedResource Include="Resources\ky.png" />
+    <EmbeddedResource Include="Resources\kz.png" />
+    <EmbeddedResource Include="Resources\la.png" />
+    <EmbeddedResource Include="Resources\lb.png" />
+    <EmbeddedResource Include="Resources\lc.png" />
+    <EmbeddedResource Include="Resources\li.png" />
+    <EmbeddedResource Include="Resources\lk.png" />
+    <EmbeddedResource Include="Resources\lr.png" />
+    <EmbeddedResource Include="Resources\ls.png" />
+    <EmbeddedResource Include="Resources\lt.png" />
+    <EmbeddedResource Include="Resources\lu.png" />
+    <EmbeddedResource Include="Resources\lv.png" />
+    <EmbeddedResource Include="Resources\ly.png" />
+    <EmbeddedResource Include="Resources\ma.png" />
+    <EmbeddedResource Include="Resources\mc.png" />
+    <EmbeddedResource Include="Resources\md.png" />
+    <EmbeddedResource Include="Resources\me.png" />
+    <EmbeddedResource Include="Resources\mg.png" />
+    <EmbeddedResource Include="Resources\mh.png" />
+    <EmbeddedResource Include="Resources\mk.png" />
+    <EmbeddedResource Include="Resources\ml.png" />
+    <EmbeddedResource Include="Resources\mm.png" />
+    <EmbeddedResource Include="Resources\mn.png" />
+    <EmbeddedResource Include="Resources\mo.png" />
+    <EmbeddedResource Include="Resources\mq.png" />
+    <EmbeddedResource Include="Resources\mr.png" />
+    <EmbeddedResource Include="Resources\ms.png" />
+    <EmbeddedResource Include="Resources\mt.png" />
+    <EmbeddedResource Include="Resources\mu.png" />
+    <EmbeddedResource Include="Resources\mv.png" />
+    <EmbeddedResource Include="Resources\mw.png" />
+    <EmbeddedResource Include="Resources\mx.png" />
+    <EmbeddedResource Include="Resources\my.png" />
+    <EmbeddedResource Include="Resources\mz.png" />
+    <EmbeddedResource Include="Resources\na.png" />
+    <EmbeddedResource Include="Resources\nc.png" />
+    <EmbeddedResource Include="Resources\ne.png" />
+    <EmbeddedResource Include="Resources\ng.png" />
+    <EmbeddedResource Include="Resources\ni.png" />
+    <EmbeddedResource Include="Resources\nl.png" />
+    <EmbeddedResource Include="Resources\no.png" />
+    <EmbeddedResource Include="Resources\np.png" />
+    <EmbeddedResource Include="Resources\nr.png" />
+    <EmbeddedResource Include="Resources\nz.png" />
+    <EmbeddedResource Include="Resources\om.png" />
+    <EmbeddedResource Include="Resources\pa.png" />
+    <EmbeddedResource Include="Resources\pe.png" />
+    <EmbeddedResource Include="Resources\pf.png" />
+    <EmbeddedResource Include="Resources\pg.png" />
+    <EmbeddedResource Include="Resources\ph.png" />
+    <EmbeddedResource Include="Resources\pk.png" />
+    <EmbeddedResource Include="Resources\pl.png" />
+    <EmbeddedResource Include="Resources\pr.png" />
+    <EmbeddedResource Include="Resources\ps.png" />
+    <EmbeddedResource Include="Resources\pt.png" />
+    <EmbeddedResource Include="Resources\pw.png" />
+    <EmbeddedResource Include="Resources\py.png" />
+    <EmbeddedResource Include="Resources\qa.png" />
+    <EmbeddedResource Include="Resources\re.png" />
+    <EmbeddedResource Include="Resources\ro.png" />
+    <EmbeddedResource Include="Resources\rs.png" />
+    <EmbeddedResource Include="Resources\ru.png" />
+    <EmbeddedResource Include="Resources\rw.png" />
+    <EmbeddedResource Include="Resources\sa.png" />
+    <EmbeddedResource Include="Resources\sb.png" />
+    <EmbeddedResource Include="Resources\sc.png" />
+    <EmbeddedResource Include="Resources\sd.png" />
+    <EmbeddedResource Include="Resources\se.png" />
+    <EmbeddedResource Include="Resources\sg.png" />
+    <EmbeddedResource Include="Resources\si.png" />
+    <EmbeddedResource Include="Resources\sk.png" />
+    <EmbeddedResource Include="Resources\sl.png" />
+    <EmbeddedResource Include="Resources\sm.png" />
+    <EmbeddedResource Include="Resources\sn.png" />
+    <EmbeddedResource Include="Resources\so.png" />
+    <EmbeddedResource Include="Resources\sr.png" />
+    <EmbeddedResource Include="Resources\st.png" />
+    <EmbeddedResource Include="Resources\sv.png" />
+    <EmbeddedResource Include="Resources\sy.png" />
+    <EmbeddedResource Include="Resources\sz.png" />
+    <EmbeddedResource Include="Resources\tc.png" />
+    <EmbeddedResource Include="Resources\td.png" />
+    <EmbeddedResource Include="Resources\tg.png" />
+    <EmbeddedResource Include="Resources\th.png" />
+    <EmbeddedResource Include="Resources\tj.png" />
+    <EmbeddedResource Include="Resources\tl.png" />
+    <EmbeddedResource Include="Resources\tm.png" />
+    <EmbeddedResource Include="Resources\tn.png" />
+    <EmbeddedResource Include="Resources\to.png" />
+    <EmbeddedResource Include="Resources\tr.png" />
+    <EmbeddedResource Include="Resources\tt.png" />
+    <EmbeddedResource Include="Resources\tv.png" />
+    <EmbeddedResource Include="Resources\tw.png" />
+    <EmbeddedResource Include="Resources\tz.png" />
+    <EmbeddedResource Include="Resources\ua.png" />
+    <EmbeddedResource Include="Resources\ug.png" />
+    <EmbeddedResource Include="Resources\us.png" />
+    <EmbeddedResource Include="Resources\uy.png" />
+    <EmbeddedResource Include="Resources\uz.png" />
+    <EmbeddedResource Include="Resources\va.png" />
+    <EmbeddedResource Include="Resources\vc.png" />
+    <EmbeddedResource Include="Resources\ve.png" />
+    <EmbeddedResource Include="Resources\vg.png" />
+    <EmbeddedResource Include="Resources\vi.png" />
+    <EmbeddedResource Include="Resources\vn.png" />
+    <EmbeddedResource Include="Resources\vu.png" />
+    <EmbeddedResource Include="Resources\ws.png" />
+    <EmbeddedResource Include="Resources\ye.png" />
+    <EmbeddedResource Include="Resources\za.png" />
+    <EmbeddedResource Include="Resources\zm.png" />
+    <EmbeddedResource Include="Resources\zw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Language.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Country.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\CountryLanguage.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\TimeZone.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ax.png" />
+    <EmbeddedResource Include="Resources\bl.png" />
+    <EmbeddedResource Include="Resources\bq.png" />
+    <EmbeddedResource Include="Resources\bv.png" />
+    <EmbeddedResource Include="Resources\cc.png" />
+    <EmbeddedResource Include="Resources\cw.png" />
+    <EmbeddedResource Include="Resources\cx.png" />
+    <EmbeddedResource Include="Resources\fk.png" />
+    <EmbeddedResource Include="Resources\gf.png" />
+    <EmbeddedResource Include="Resources\gs.png" />
+    <EmbeddedResource Include="Resources\io.png" />
+    <EmbeddedResource Include="Resources\mf.png" />
+    <EmbeddedResource Include="Resources\mp.png" />
+    <EmbeddedResource Include="Resources\nf.png" />
+    <EmbeddedResource Include="Resources\nu.png" />
+    <EmbeddedResource Include="Resources\pm.png" />
+    <EmbeddedResource Include="Resources\pn.png" />
+    <EmbeddedResource Include="Resources\sh.png" />
+    <EmbeddedResource Include="Resources\sj.png" />
+    <EmbeddedResource Include="Resources\ss.png" />
+    <EmbeddedResource Include="Resources\sx.png" />
+    <EmbeddedResource Include="Resources\tf.png" />
+    <EmbeddedResource Include="Resources\tk.png" />
+    <EmbeddedResource Include="Resources\um.png" />
+    <EmbeddedResource Include="Resources\wf.png" />
+    <EmbeddedResource Include="Resources\yt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\hm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

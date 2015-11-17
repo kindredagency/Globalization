@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country countrycodetwoletter="AD" countryname="Andorra" />
+  <country countrycodetwoletter="AE" countryname="United Arab Emirates" />
+  <country countrycodetwoletter="AF" countryname="Afghanistan" />
+  <country countrycodetwoletter="AG" countryname="Antigua and Barbuda" />
+  <country countrycodetwoletter="AI" countryname="Anguilla" />
+  <country countrycodetwoletter="AL" countryname="Albania" />
+  <country countrycodetwoletter="AM" countryname="Armenia" />
+  <country countrycodetwoletter="AO" countryname="Angola" />
+  <country countrycodetwoletter="AQ" countryname="Antarctica" />
+  <country countrycodetwoletter="AR" countryname="Argentina" />
+  <country countrycodetwoletter="AS" countryname="American Samoa" />
+  <country countrycodetwoletter="AT" countryname="Austria" />
+  <country countrycodetwoletter="AU" countryname="Australia" />
+  <country countrycodetwoletter="AW" countryname="Aruba" />
+  <country countrycodetwoletter="AX" countryname="&#197;land Islands" />
+  <country countrycodetwoletter="AZ" countryname="Azerbaijan" />
+  <country countrycodetwoletter="BA" countryname="Bosnia and Herzegovina" />
+  <country countrycodetwoletter="BB" countryname="Barbados" />
+  <country countrycodetwoletter="BD" countryname="Bangladesh" />
+  <country countrycodetwoletter="BE" countryname="Belgium" />
+  <country countrycodetwoletter="BF" countryname="Burkina Faso" />
+  <country countrycodetwoletter="BG" countryname="Bulgaria" />
+  <country countrycodetwoletter="BH" countryname="Bahrain" />
+  <country countrycodetwoletter="BI" countryname="Burundi" />
+  <country countrycodetwoletter="BJ" countryname="Benin" />
+  <country countrycodetwoletter="BL" countryname="Saint Barth&#233;lemy" />
+  <country countrycodetwoletter="BM" countryname="Bermuda" />
+  <country countrycodetwoletter="BN" countryname="Brunei Darussalam" />
+  <country countrycodetwoletter="BO" countryname="Bolivia, Plurinational State of" />
+  <country countrycodetwoletter="BQ" countryname="Bonaire, Sint Eustatius and Saba" />
+  <country countrycodetwoletter="BR" countryname="Brazil" />
+  <country countrycodetwoletter="BS" countryname="Bahamas" />
+  <country countrycodetwoletter="BT" countryname="Bhutan" />
+  <country countrycodetwoletter="BV" countryname="Bouvet Island" />
+  <country countrycodetwoletter="BW" countryname="Botswana" />
+  <country countrycodetwoletter="BY" countryname="Belarus" />
+  <country countrycodetwoletter="BZ" countryname="Belize" />
+  <country countrycodetwoletter="CA" countryname="Canada" />
+  <country countrycodetwoletter="CC" countryname="Cocos (Keeling) Islands" />
+  <country countrycodetwoletter="CD" countryname="Congo, the Democratic Republic of the" />
+  <country countrycodetwoletter="CF" countryname="Central African Republic" />
+  <country countrycodetwoletter="CG" countryname="Congo" />
+  <country countrycodetwoletter="CH" countryname="Switzerland" />
+  <country countrycodetwoletter="CI" countryname="C&#244;te d&#39;Ivoire" />
+  <country countrycodetwoletter="CK" countryname="Cook Islands" />
+  <country countrycodetwoletter="CL" countryname="Chile" />
+  <country countrycodetwoletter="CM" countryname="Cameroon" />
+  <country countrycodetwoletter="CN" countryname="China" />
+  <country countrycodetwoletter="CO" countryname="Colombia" />
+  <country countrycodetwoletter="CR" countryname="Costa Rica" />
+  <country countrycodetwoletter="CU" countryname="Cuba" />
+  <country countrycodetwoletter="CV" countryname="Cape Verde" />
+  <country countrycodetwoletter="CW" countryname="Cura&#231;ao" />
+  <country countrycodetwoletter="CX" countryname="Christmas Island" />
+  <country countrycodetwoletter="CY" countryname="Cyprus" />
+  <country countrycodetwoletter="CZ" countryname="Czech Republic" />
+  <country countrycodetwoletter="DE" countryname="Germany" />
+  <country countrycodetwoletter="DJ" countryname="Djibouti" />
+  <country countrycodetwoletter="DK" countryname="Denmark" />
+  <country countrycodetwoletter="DM" countryname="Dominica" />
+  <country countrycodetwoletter="DO" countryname="Dominican Republic" />
+  <country countrycodetwoletter="DZ" countryname="Algeria" />
+  <country countrycodetwoletter="EC" countryname="Ecuador" />
+  <country countrycodetwoletter="EE" countryname="Estonia" />
+  <country countrycodetwoletter="EG" countryname="Egypt" />
+  <country countrycodetwoletter="EH" countryname="Western Sahara" />
+  <country countrycodetwoletter="ER" countryname="Eritrea" />
+  <country countrycodetwoletter="ES" countryname="Spain" />
+  <country countrycodetwoletter="ET" countryname="Ethiopia" />
+  <country countrycodetwoletter="FI" countryname="Finland" />
+  <country countrycodetwoletter="FJ" countryname="Fiji" />
+  <country countrycodetwoletter="FK" countryname="Falkland Islands (Malvinas)" />
+  <country countrycodetwoletter="FM" countryname="Micronesia, Federated States of" />
+  <country countrycodetwoletter="FO" countryname="Faroe Islands" />
+  <country countrycodetwoletter="FR" countryname="France" />
+  <country countrycodetwoletter="GA" countryname="Gabon" />
+  <country countrycodetwoletter="GB" countryname="United Kingdom" />
+  <country countrycodetwoletter="GD" countryname="Grenada" />
+  <country countrycodetwoletter="GE" countryname="Georgia" />
+  <country countrycodetwoletter="GF" countryname="French Guiana" />
+  <country countrycodetwoletter="GG" countryname="Guernsey" />
+  <country countrycodetwoletter="GH" countryname="Ghana" />
+  <country countrycodetwoletter="GI" countryname="Gibraltar" />
+  <country countrycodetwoletter="GL" countryname="Greenland" />
+  <country countrycodetwoletter="GM" countryname="Gambia" />
+  <country countrycodetwoletter="GN" countryname="Guinea" />
+  <country countrycodetwoletter="GP" countryname="Guadeloupe" />
+  <country countrycodetwoletter="GQ" countryname="Equatorial Guinea" />
+  <country countrycodetwoletter="GR" countryname="Greece" />
+  <country countrycodetwoletter="GS" countryname="South Georgia and the South Sandwich Islands" />
+  <country countrycodetwoletter="GT" countryname="Guatemala" />
+  <country countrycodetwoletter="GU" countryname="Guam" />
+  <country countrycodetwoletter="GW" countryname="Guinea-Bissau" />
+  <country countrycodetwoletter="GY" countryname="Guyana" />
+  <country countrycodetwoletter="HK" countryname="Hong Kong" />
+  <country countrycodetwoletter="HM" countryname="Heard Island and McDonald Islands" />
+  <country countrycodetwoletter="HN" countryname="Honduras" />
+  <country countrycodetwoletter="HR" countryname="Croatia" />
+  <country countrycodetwoletter="HT" countryname="Haiti" />
+  <country countrycodetwoletter="HU" countryname="Hungary" />
+  <country countrycodetwoletter="ID" countryname="Indonesia" />
+  <country countrycodetwoletter="IE" countryname="Ireland" />
+  <country countrycodetwoletter="IL" countryname="Israel" />
+  <country countrycodetwoletter="IM" countryname="Isle of Man" />
+  <country countrycodetwoletter="IN" countryname="India" />
+  <country countrycodetwoletter="IO" countryname="British Indian Ocean Territory" />
+  <country countrycodetwoletter="IQ" countryname="Iraq" />
+  <country countrycodetwoletter="IR" countryname="Iran, Islamic Republic of" />
+  <country countrycodetwoletter="IS" countryname="Iceland" />
+  <country countrycodetwoletter="IT" countryname="Italy" />
+  <country countrycodetwoletter="JE" countryname="Jersey" />
+  <country countrycodetwoletter="JM" countryname="Jamaica" />
+  <country countrycodetwoletter="JO" countryname="Jordan" />
+  <country countrycodetwoletter="JP" countryname="Japan" />
+  <country countrycodetwoletter="KE" countryname="Kenya" />
+  <country countrycodetwoletter="KG" countryname="Kyrgyzstan" />
+  <country countrycodetwoletter="KH" countryname="Cambodia" />
+  <country countrycodetwoletter="KI" countryname="Kiribati" />
+  <country countrycodetwoletter="KM" countryname="Comoros" />
+  <country countrycodetwoletter="KN" countryname="Saint Kitts and Nevis" />
+  <country countrycodetwoletter="KP" countryname="Korea, Democratic People&#39;s Republic of" />
+  <country countrycodetwoletter="KR" countryname="Korea, Republic of" />
+  <country countrycodetwoletter="KW" countryname="Kuwait" />
+  <country countrycodetwoletter="KY" countryname="Cayman Islands" />
+  <country countrycodetwoletter="KZ" countryname="Kazakhstan" />
+  <country countrycodetwoletter="LA" countryname="Lao People&#39;s Democratic Republic" />
+  <country countrycodetwoletter="LB" countryname="Lebanon" />
+  <country countrycodetwoletter="LC" countryname="Saint Lucia" />
+  <country countrycodetwoletter="LI" countryname="Liechtenstein" />
+  <country countrycodetwoletter="LK" countryname="Sri Lanka" />
+  <country countrycodetwoletter="LR" countryname="Liberia" />
+  <country countrycodetwoletter="LS" countryname="Lesotho" />
+  <country countrycodetwoletter="LT" countryname="Lithuania" />
+  <country countrycodetwoletter="LU" countryname="Luxembourg" />
+  <country countrycodetwoletter="LV" countryname="Latvia" />
+  <country countrycodetwoletter="LY" countryname="Libya" />
+  <country countrycodetwoletter="MA" countryname="Morocco" />
+  <country countrycodetwoletter="MC" countryname="Monaco" />
+  <country countrycodetwoletter="MD" countryname="Moldova, Republic of" />
+  <country countrycodetwoletter="ME" countryname="Montenegro" />
+  <country countrycodetwoletter="MF" countryname="Saint Martin (French part)" />
+  <country countrycodetwoletter="MG" countryname="Madagascar" />
+  <country countrycodetwoletter="MH" countryname="Marshall Islands" />
+  <country countrycodetwoletter="MK" countryname="Macedonia, the Former Yugoslav Republic of" />
+  <country countrycodetwoletter="ML" countryname="Mali" />
+  <country countrycodetwoletter="MM" countryname="Myanmar" />
+  <country countrycodetwoletter="MN" countryname="Mongolia" />
+  <country countrycodetwoletter="MO" countryname="Macao" />
+  <country countrycodetwoletter="MP" countryname="Northern Mariana Islands" />
+  <country countrycodetwoletter="MQ" countryname="Martinique" />
+  <country countrycodetwoletter="MR" countryname="Mauritania" />
+  <country countrycodetwoletter="MS" countryname="Montserrat" />
+  <country countrycodetwoletter="MT" countryname="Malta" />
+  <country countrycodetwoletter="MU" countryname="Mauritius" />
+  <country countrycodetwoletter="MV" countryname="Maldives" />
+  <country countrycodetwoletter="MW" countryname="Malawi" />
+  <country countrycodetwoletter="MX" countryname="Mexico" />
+  <country countrycodetwoletter="MY" countryname="Malaysia" />
+  <country countrycodetwoletter="MZ" countryname="Mozambique" />
+  <country countrycodetwoletter="NA" countryname="Namibia" />
+  <country countrycodetwoletter="NC" countryname="New Caledonia" />
+  <country countrycodetwoletter="NE" countryname="Niger" />
+  <country countrycodetwoletter="NF" countryname="Norfolk Island" />
+  <country countrycodetwoletter="NG" countryname="Nigeria" />
+  <country countrycodetwoletter="NI" countryname="Nicaragua" />
+  <country countrycodetwoletter="NL" countryname="Netherlands" />
+  <country countrycodetwoletter="NO" countryname="Norway" />
+  <country countrycodetwoletter="NP" countryname="Nepal" />
+  <country countrycodetwoletter="NR" countryname="Nauru" />
+  <country countrycodetwoletter="NU" countryname="Niue" />
+  <country countrycodetwoletter="NZ" countryname="New Zealand" />
+  <country countrycodetwoletter="OM" countryname="Oman" />
+  <country countrycodetwoletter="PA" countryname="Panama" />
+  <country countrycodetwoletter="PE" countryname="Peru" />
+  <country countrycodetwoletter="PF" countryname="French Polynesia" />
+  <country countrycodetwoletter="PG" countryname="Papua New Guinea" />
+  <country countrycodetwoletter="PH" countryname="Philippines" />
+  <country countrycodetwoletter="PK" countryname="Pakistan" />
+  <country countrycodetwoletter="PL" countryname="Poland" />
+  <country countrycodetwoletter="PM" countryname="Saint Pierre and Miquelon" />
+  <country countrycodetwoletter="PN" countryname="Pitcairn" />
+  <country countrycodetwoletter="PR" countryname="Puerto Rico" />
+  <country countrycodetwoletter="PS" countryname="Palestine, State of" />
+  <country countrycodetwoletter="PT" countryname="Portugal" />
+  <country countrycodetwoletter="PW" countryname="Palau" />
+  <country countrycodetwoletter="PY" countryname="Paraguay" />
+  <country countrycodetwoletter="QA" countryname="Qatar" />
+  <country countrycodetwoletter="RE" countryname="R&#233;union" />
+  <country countrycodetwoletter="RO" countryname="Romania" />
+  <country countrycodetwoletter="RS" countryname="Serbia" />
+  <country countrycodetwoletter="RU" countryname="Russian Federation" />
+  <country countrycodetwoletter="RW" countryname="Rwanda" />
+  <country countrycodetwoletter="SA" countryname="Saudi Arabia" />
+  <country countrycodetwoletter="SB" countryname="Solomon Islands" />
+  <country countrycodetwoletter="SC" countryname="Seychelles" />
+  <country countrycodetwoletter="SD" countryname="Sudan" />
+  <country countrycodetwoletter="SE" countryname="Sweden" />
+  <country countrycodetwoletter="SG" countryname="Singapore" />
+  <country countrycodetwoletter="SH" countryname="Saint Helena, Ascension and Tristan da Cunha" />
+  <country countrycodetwoletter="SI" countryname="Slovenia" />
+  <country countrycodetwoletter="SJ" countryname="Svalbard and Jan Mayen" />
+  <country countrycodetwoletter="SK" countryname="Slovakia" />
+  <country countrycodetwoletter="SL" countryname="Sierra Leone" />
+  <country countrycodetwoletter="SM" countryname="San Marino" />
+  <country countrycodetwoletter="SN" countryname="Senegal" />
+  <country countrycodetwoletter="SO" countryname="Somalia" />
+  <country countrycodetwoletter="SR" countryname="Suriname" />
+  <country countrycodetwoletter="SS" countryname="South Sudan" />
+  <country countrycodetwoletter="ST" countryname="Sao Tome and Principe" />
+  <country countrycodetwoletter="SV" countryname="El Salvador" />
+  <country countrycodetwoletter="SX" countryname="Sint Maarten (Dutch part)" />
+  <country countrycodetwoletter="SY" countryname="Syrian Arab Republic" />
+  <country countrycodetwoletter="SZ" countryname="Swaziland" />
+  <country countrycodetwoletter="TC" countryname="Turks and Caicos Islands" />
+  <country countrycodetwoletter="TD" countryname="Chad" />
+  <country countrycodetwoletter="TF" countryname="French Southern Territories" />
+  <country countrycodetwoletter="TG" countryname="Togo" />
+  <country countrycodetwoletter="TH" countryname="Thailand" />
+  <country countrycodetwoletter="TJ" countryname="Tajikistan" />
+  <country countrycodetwoletter="TK" countryname="Tokelau" />
+  <country countrycodetwoletter="TL" countryname="Timor-Leste" />
+  <country countrycodetwoletter="TM" countryname="Turkmenistan" />
+  <country countrycodetwoletter="TN" countryname="Tunisia" />
+  <country countrycodetwoletter="TO" countryname="Tonga" />
+  <country countrycodetwoletter="TR" countryname="Turkey" />
+  <country countrycodetwoletter="TT" countryname="Trinidad and Tobago" />
+  <country countrycodetwoletter="TV" countryname="Tuvalu" />
+  <country countrycodetwoletter="TW" countryname="Taiwan, Province of China" />
+  <country countrycodetwoletter="TZ" countryname="Tanzania, United Republic of" />
+  <country countrycodetwoletter="UA" countryname="Ukraine" />
+  <country countrycodetwoletter="UG" countryname="Uganda" />
+  <country countrycodetwoletter="UM" countryname="United States Minor Outlying Islands" />
+  <country countrycodetwoletter="US" countryname="United States" />
+  <country countrycodetwoletter="UY" countryname="Uruguay" />
+  <country countrycodetwoletter="UZ" countryname="Uzbekistan" />
+  <country countrycodetwoletter="VA" countryname="Holy See (Vatican City State)" />
+  <country countrycodetwoletter="VC" countryname="Saint Vincent and the Grenadines" />
+  <country countrycodetwoletter="VE" countryname="Venezuela, Bolivarian Republic of" />
+  <country countrycodetwoletter="VG" countryname="Virgin Islands, British" />
+  <country countrycodetwoletter="VI" countryname="Virgin Islands, U.S." />
+  <country countrycodetwoletter="VN" countryname="Viet Nam" />
+  <country countrycodetwoletter="VU" countryname="Vanuatu" />
+  <country countrycodetwoletter="WF" countryname="Wallis and Futuna" />
+  <country countrycodetwoletter="WS" countryname="Samoa" />
+  <country countrycodetwoletter="YE" countryname="Yemen" />
+  <country countrycodetwoletter="YT" countryname="Mayotte" />
+  <country countrycodetwoletter="ZA" countryname="South Africa" />
+  <country countrycodetwoletter="ZM" countryname="Zambia" />
+  <country countrycodetwoletter="ZW" countryname="Zimbabwe" />
+</countries>

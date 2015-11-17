@@ -1,0 +1,25 @@
+﻿@using Framework.AssetLibrary.Globalization
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    @foreach (var country in GlobalizationFactory.GetCountries())
+    {
+        <img src="@country.Flag" />
+        <h3>@country.CountryCodeTwoLetter, @country.CountryName</h3>
+        foreach (var culture in country.Cultures)
+        {
+            <p><strong>Culture :</strong> @culture.CultureEnglishName (@culture.CultureCode), <strong>Currency code:</strong> @culture.CurrencyCode, <strong>Currency native name:</strong> @culture.CurrencyNativeName, <strong>Country native name:</strong> @culture.CountryNativeName</p>
+        }
+        foreach (var time in country.TimeZones)
+        {
+            <p>@time.TimeZone.ZoneName, UTC @time.TimeZone.Utc, Olson: @time.Olson, Other : @(time.Info?.DaylightName)</p>
+        }
+        <p>-------------------------</p>
+    }
+</body>
+</html>

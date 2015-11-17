@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<timezones>  
+  <timezone zonename="Afghanistan Time" microsoftzonename="Transitional Islamic State of Afghanistan Standard Time" microsoftname="(GMT+04:30) Kabul"  zonecode="AFT" utc="+04:30" />
+  <timezone zonename="Alaska Standard Time" microsoftzonename="Alaskan Standard Time" microsoftname="(GMT-09:00) Alaska"  zonecode="AKST/AKDT" utc="-09:00" />
+  <timezone zonename="Amazon Time" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Georgetown, La Paz, San Juan" zonecode="AMT" utc="-04:00" />
+  <timezone zonename="American Samoa" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="SST" utc="+11:00" />
+  <timezone zonename="Amundsen-Scott Station, South Pole" microsoftzonename="" microsoftname="" zonecode="" utc="+12:00" />
+  <timezone zonename="Anadyr Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="ANAT/ANAST" utc="+12:00" />
+  <timezone zonename="Arabia Standard Time" microsoftzonename="Arab Standard Time" microsoftname="(GMT+03:00) Kuwait, Riyadh" zonecode="AST" utc="+03:00" />
+  <timezone zonename="Arabian Standard Time" microsoftzonename="Arabian Standard Time" microsoftname="(GMT+04:00) Abu Dhabi, Muscat" zonecode="GST" utc="+04:00" />
+  <timezone zonename="Arabic Standard Time" microsoftzonename="Arabic Standard Time" microsoftname="(GMT+03:00) Baghdad" zonecode="AST" utc="+03:00" />
+  <timezone zonename="Argentina Time" microsoftzonename="S.A. Eastern Standard Time" microsoftname="(GMT-03:00) Buenos Aires, Georgetown" zonecode="ART" utc="-03:00" />
+  <timezone zonename="Armenia Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="AMT" utc="+04:00" />
+  <timezone zonename="Atlantic Standard Time" microsoftzonename="Atlantic Standard Time" microsoftname="(GMT-04:00) Atlantic Time (Canada)" zonecode="AST" utc="-04:00" />
+  <timezone zonename="Australian Central Standard Time" microsoftzonename="Cen. Australia Standard Time" microsoftname="(GMT+09:30) Adelaide" zonecode="ACST" utc="+09:30" />
+  <timezone zonename="Australian Eastern Standard Time" microsoftzonename="A.U.S. Eastern Standard Time" microsoftname="(GMT+10:00) Canberra, Melbourne, Sydney" zonecode="AEST" utc="+10:00" />
+  <timezone zonename="Australian Western Standard Time" microsoftzonename="W. Australia Standard Time" microsoftname="(GMT+08:00) Perth" zonecode="AWST" utc="+08:00" />
+  <timezone zonename="Azerbaijan Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="AZT/AZST" utc="+04:00" />
+  <timezone zonename="Azores Standard Time" microsoftzonename="Azores Standard Time" microsoftname="(GMT-01:00) Azores" zonecode="AZOT/AZOST" utc="-01:00" />
+  <timezone zonename="Bangladesh Standard Time" microsoftzonename="Central Asia Standard Time" microsoftname="(GMT+06:00) Astana, Dhaka" zonecode="BDST" utc="+06:00" />
+  <timezone zonename="Bhutan Time" microsoftzonename="Central Asia Standard Time" microsoftname="(GMT+06:00) Astana, Dhaka" zonecode="BTT" utc="+06:00" />
+  <timezone zonename="Bolivia Time" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Caracas, La Paz" zonecode="BOT" utc="-04:00" />
+  <timezone zonename="Bouvet Island" microsoftzonename="Greenwich Standard Time" microsoftname="(GMT) Casablanca, Monrovia" zonecode="BVIS" utc="+00:00" />
+  <timezone zonename="Brasilia Time" microsoftzonename="E. South America Standard Time" microsoftname="(GMT-03:00) Brasilia" zonecode="BRT" utc="-03:00" />
+  <timezone zonename="Brunei Time" microsoftzonename="Singapore Standard Time" microsoftname="(GMT+08:00) Kuala Lumpur, Singapore" zonecode="BNT" utc="+08:00" />
+  <timezone zonename="Cape Verde Time" microsoftzonename="Cape Verde Standard Time" microsoftname="(GMT-01:00) Cape Verde Islands"  zonecode="CVT" utc="-01:00" />
+  <timezone zonename="Caribbean Netherlands" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Caracas, La Paz" zonecode="AST" utc="-04:00" />
+  <timezone zonename="Casey Station, Bailey Peninsula" microsoftzonename="" microsoftname=""  zonecode="" utc="+11:00" />
+  <timezone zonename="Central Africa Time" microsoftzonename="South Africa Standard Time" microsoftname="(GMT+02:00) Harare, Pretoria" zonecode="CAT" utc="+02:00" />
+  <timezone zonename="Central European Time" microsoftzonename="Central Europe Standard Time" microsoftname="(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague" zonecode="CET/CEST" utc="+01:00" />
+  <timezone zonename="Central Greenland" microsoftzonename="Greenland Standard Time" microsoftname="(GMT-03:00) Greenland" zonecode="WGT/WGST" utc="-03:00" />
+  <timezone zonename="Central Indonesian Time" microsoftzonename="Singapore Standard Time" microsoftname="(GMT+08:00) Kuala Lumpur, Singapore" zonecode="CIT" utc="+08:00" />
+  <timezone zonename="Central Standard Time" microsoftzonename="Central Standard Time" microsoftname="(GMT-06:00) Central Time (US and Canada)" zonecode="CST" utc="-06:00" />
+  <timezone zonename="Central Western Australia Time" microsoftzonename="W. Australia Standard Time" microsoftname="(GMT+08:00) Perth" zonecode="CWST" utc="+08:45" />
+  <timezone zonename="Central Zone" microsoftzonename="Central Standard Time" microsoftname="(GMT-06:00) Central Time (US and Canada)" zonecode="CST/CDT" utc="-06:00" />
+  <timezone zonename="Chamorro Standard Time" microsoftzonename="A.U.S. Eastern Standard Time" microsoftname="(GMT+10:00) Canberra, Melbourne, Sydney" zonecode="ChST" utc="+10:00" />
+  <timezone zonename="Chatham Standard Time" microsoftzonename="New Zealand Standard Time" microsoftname="(GMT+12:00) Auckland, Wellington" zonecode="CHAST/CHAD" utc="+12:45" />
+  <timezone zonename="Chile Standard Time" microsoftzonename="Pacific S.A. Standard Time" microsoftname="(GMT-04:00) Santiago" zonecode="CLT/CLST" utc="-04:00" />
+  <timezone zonename="China Standard Time" microsoftzonename="China Standard Time" microsoftname="(GMT+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi" zonecode="CST" utc="+08:00" />
+  <timezone zonename="Choibalsan Standard Time" microsoftzonename="North Asia East Standard Time" microsoftname="(GMT+08:00) Irkutsk, Ulaanbaatar" zonecode="CHOT/CHOST" utc="+08:00" />
+  <timezone zonename="Cocos Islands Time" microsoftzonename="Myanmar Standard Time" microsoftname="(GMT+06:30) Yangon Rangoon" zonecode="CCT" utc="+06:30" />
+  <timezone zonename="Colombia Time" microsoftzonename="S.A. Pacific Standard Time" microsoftname="(GMT-05:00) Bogota, Lima, Quito" zonecode="COT" utc="-05:00" />
+  <timezone zonename="Davis Station, Vestfold Hills" microsoftzonename="" microsoftname="" zonecode="" utc="+05:00" />
+  <timezone zonename="East Africa Time" microsoftzonename="E. Africa Standard Time" microsoftname="(GMT+03:00) Nairobi" zonecode="EAT" utc="+03:00" />
+  <timezone zonename="Easter Island Standard Time" microsoftzonename="Central Standard Time" microsoftname="(GMT-06:00) Central Time (US and Canada)" zonecode="EAST/EASST" utc="-06:00" />
+  <timezone zonename="Eastern European Time" microsoftzonename="E. Europe Standard Time" microsoftname="(GMT+02:00) Bucharest" zonecode="EET/EEST" utc="+02:00" />
+  <timezone zonename="Eastern Indonesian Time" microsoftzonename="Korea Standard Time" microsoftname="(GMT+09:00) Seoul" zonecode="EIT" utc="+09:00" />
+  <timezone zonename="Eastern Kazakhstan Time" microsoftzonename="N. Central Asia Standard Time" microsoftname="(GMT+06:00) Almaty, Novosibirsk" zonecode="ALMT" utc="+06:00" />
+  <timezone zonename="Eastern Standard Time" microsoftzonename="Eastern Standard Time" microsoftname="(GMT-05:00) Eastern Time (US and Canada)" zonecode="EST/EDT" utc="-05:00" />
+  <timezone zonename="Ecuador Time" microsoftzonename="S.A. Pacific Standard Time" microsoftname="(GMT-05:00) Bogota, Lima, Quito" zonecode="ECT" utc="-05:00" />
+  <timezone zonename="Falkland Islands Time" microsoftzonename="S.A. Eastern Standard Time" microsoftname="(GMT-03:00) Buenos Aires, Georgetown" zonecode="FKT/FKST" utc="-03:00" />
+  <timezone zonename="Fernando de Noronha Time" microsoftzonename="Mid-Atlantic Standard Time" microsoftname="(GMT-02:00) Mid-Atlantic" zonecode="FNT" utc="-02:00" />
+  <timezone zonename="Fiji Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="FJT" utc="+12:00" />
+  <timezone zonename="French Guiana Time" microsoftzonename="S.A. Eastern Standard Time" microsoftname="(GMT-03:00) Buenos Aires, Georgetown" zonecode="GFT" utc="-03:00" />
+  <timezone zonename="French Southern and Antarctic Time" microsoftzonename="Ekaterinburg Standard Time" microsoftname="(GMT+05:00) Ekaterinburg" zonecode="TFT" utc="+05:00" />
+  <timezone zonename="Gal&#225;pagos Time" microsoftzonename="Central America Standard Time" microsoftname="(GMT-06:00) Central America" zonecode="GALT" utc="-06:00" />
+  <timezone zonename="Gambier Time" microsoftzonename="Alaskan Standard Time" microsoftname="(GMT-09:00) Alaska" zonecode="GAMT" utc="-09:00" />
+  <timezone zonename="Georgia Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="GET" utc="+04:00" />
+  <timezone zonename="Gilbert Island Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="GILT" utc="+12:00" />
+  <timezone zonename="Greenland Time" microsoftzonename="Azores Standard Time" microsoftname="(GMT-01:00) Azores" zonecode="EGT/EGST" utc="-01:00" />
+  <timezone zonename="Greenwich Mean Time" microsoftzonename="GMT Standard Time" microsoftname="(GMT) Greenwich Mean Time: Dublin, Edinburgh, Lisbon, London" zonecode="GMT" utc="+00:00" />
+  <timezone zonename="Guyana Time" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Caracas, La Paz" zonecode="GYT" utc="-04:00" />
+  <timezone zonename="Hawaii Standard Time" microsoftzonename="Hawaiian Standard Time" microsoftname="(GMT-10:00) Hawaii" zonecode="HAST" utc="-10:00" />
+  <timezone zonename="Heard and McDonald Islands" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="HIMI" utc="+05:00" />
+  <timezone zonename="Hong Kong Time" microsoftzonename="China Standard Time" microsoftname="(GMT+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi" zonecode="HKT" utc="+08:00" />
+  <timezone zonename="Hovd Standard Time" microsoftzonename="North Asia Standard Time" microsoftname="(GMT+07:00) Krasnoyarsk" zonecode="HOVT/HOVST" utc="+07:00" />
+  <timezone zonename="Indian Standard Time" microsoftzonename="India Standard Time" microsoftname="(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi" zonecode="IST" utc="+05:30" />
+  <timezone zonename="Iran Standard Time" microsoftzonename="Iran Standard Time" microsoftname="(GMT+03:30) Tehran" zonecode="IRST" utc="+03:30" />
+  <timezone zonename="Irkutsk Time" microsoftzonename="Yakutsk Standard Time" microsoftname="(GMT+09:00) Yakutsk"  zonecode="IRKT/IRKST" utc="+09:00" />
+  <timezone zonename="Israel Standard Time" microsoftzonename="Israel Standard Time" microsoftname="(GMT+02:00) Jerusalem" zonecode="IST/IDT" utc="+02:00" />
+  <timezone zonename="Japan Standard Time" microsoftzonename="Tokyo Standard Time" microsoftname="(GMT+09:00) Osaka, Sapporo, Tokyo" zonecode="JST" utc="+09:00" />
+  <timezone zonename="Kamchatka Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="PETT/PETST" utc="+12:00" />
+  <timezone zonename="Korea Standard Time" microsoftzonename="Korea Standard Time" microsoftname="(GMT+09:00) Seoul" zonecode="KST" utc="+09:00" />
+  <timezone zonename="Kosrae Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="KOST" utc="+11:00" />
+  <timezone zonename="Krasnoyarsk Time" microsoftzonename="North Asia East Standard Time" microsoftname="GMT+08:00) Irkutsk, Ulaanbaatar" zonecode="KRAT/KRAST" utc="+08:00" />
+  <timezone zonename="Kyrgyzstan Time" microsoftzonename="Central Asia Standard Time" microsoftname="(GMT+06:00) Astana, Dhaka" zonecode="KGT" utc="+06:00" />
+  <timezone zonename="Line Islands Time" microsoftzonename="S.E. Asia Standard Time" microsoftname="(GMT+07:00) Bangkok, Hanoi, Jakarta" zonecode="LINT" utc="+07:00" />
+  <timezone zonename="Lord Howe Time" microsoftzonename="E. Australia Standard Time" microsoftname="(GMT+10:00) Brisbane" zonecode="LHST" utc="+10:30" />
+  <timezone zonename="Macau Time" microsoftzonename="China Standard Time" microsoftname="(GMT+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi" zonecode="CT" utc="+08:00" />
+  <timezone zonename="Magadan Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="MAGT/MAGST" utc="+12:00" />
+  <timezone zonename="Malaysian Standard Time" microsoftzonename="Singapore Standard Time" microsoftname="(GMT+08:00) Kuala Lumpur, Singapore" zonecode="MYT" utc="+08:00" />
+  <timezone zonename="Maldives Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="MVT" utc="+05:00" />
+  <timezone zonename="Marquesas Time" microsoftzonename="Hawaiian Standard Time" microsoftname="(GMT-10:00) Hawaii" zonecode="MART" utc="-09:30" />
+  <timezone zonename="Marshall Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="MHT" utc="+12:00" />
+  <timezone zonename="Mauritius Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="MUT" utc="+04:00" />
+  <timezone zonename="Mawson Station, Holme Bay" microsoftzonename="" microsoftname="" zonecode="" utc="+05:00" />
+  <timezone zonename="Moscow Standard Time" microsoftzonename="Russian Standard Time" microsoftname="(GMT+03:00) Moscow, St. Petersburg, Volgograd" zonecode="MSK/MSD" utc="+04:00" />
+  <timezone zonename="Mountain Standard Time" microsoftzonename="Mountain Standard Time" microsoftname="(GMT-07:00) Mountain Time (US and Canada)" zonecode="MST/MDT" utc="-07:00" />
+  <timezone zonename="Myanmar Standard Time" microsoftzonename="Myanmar Standard Time" microsoftname="(GMT+06:30) Yangon Rangoon" zonecode="MMT" utc="+06:30" />
+  <timezone zonename="Nauru Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="NRT" utc="+12:00" />
+  <timezone zonename="Nepal Time" microsoftzonename="Nepal Standard Time" microsoftname="(GMT+05:45) Kathmandu" zonecode="NPT" utc="+05:45" />
+  <timezone zonename="New Caledonia Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="NCT" utc="+11:00" />
+  <timezone zonename="New Zealand Standard Time" microsoftzonename="New Zealand Standard Time" microsoftname="(GMT+12:00) Auckland, Wellington" zonecode="NZST/NZDT" utc="+12:00" />
+  <timezone zonename="Newfoundland Time" microsoftzonename="Newfoundland and Labrador Standard Time" microsoftname="(GMT-03:30) Newfoundland and Labrador" zonecode="NST/NDT" utc="-03:30" />
+  <timezone zonename="Niue Time" microsoftzonename="Samoa Standard Time" microsoftname="(GMT-11:00) Midway Island, Samoa" zonecode="NUT" utc="-11:00" />
+  <timezone zonename="Norfolk Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="NFT" utc="+11:30" />
+  <timezone zonename="Northwest Zone" microsoftzonename="Pacific Standard Time" microsoftname="(GMT-08:00) Pacific Time (US and Canada); Tijuana" zonecode="PST/PDT" utc="-08:00" />
+  <timezone zonename="Northwestern Greenland" microsoftzonename="Atlantic Standard Time" microsoftname="(GMT-04:00) Atlantic Time (Canada)" zonecode="AST/ADT" utc="-04:00" />
+  <timezone zonename="Novosibirsk Time" microsoftzonename="North Asia Standard Time" microsoftname="(GMT+07:00) Krasnoyarsk" zonecode="NOVT/NOVST" utc="+07:00" />
+  <timezone zonename="Omsk Time" microsoftzonename="North Asia Standard Time" microsoftname="(GMT+07:00) Krasnoyarsk" zonecode="OMST/OMSST" utc="+07:00" />
+  <timezone zonename="Pacific Standard Time" microsoftzonename="Pacific Standard Time" microsoftname="(GMT-08:00) Pacific Time (US and Canada); Tijuana" zonecode="PST/PDT" utc="-08:00" />
+  <timezone zonename="Pacific Zone" microsoftzonename="Mountain Standard Time" microsoftname="(GMT-07:00) Mountain Time (US and Canada)" zonecode="MST/MDT" utc="-07:00" />
+  <timezone zonename="Pakistan Standard Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="PKT/PKST" utc="+05:00" />
+  <timezone zonename="Palau Time" microsoftzonename="Korea Standard Time" microsoftname="(GMT+09:00) Seoul" zonecode="PWT" utc="+09:00" />
+  <timezone zonename="Palmer Station, Anvers Island" microsoftzonename="" microsoftname="" zonecode="" utc="-04:00" />
+  <timezone zonename="Papua New Guinea Time" microsoftzonename="E. Australia Standard Time" microsoftname="(GMT+10:00) Brisbane" zonecode="PGT" utc="+10:00" />
+  <timezone zonename="Paraguay Standard Time" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Caracas, La Paz" zonecode="PYT/PYST" utc="-04:00" />
+  <timezone zonename="Peru Time" microsoftzonename="S.A. Pacific Standard Time" microsoftname="(GMT-05:00) Bogota, Lima, Quito" zonecode="PET" utc="-05:00" />
+  <timezone zonename="Philippines Time" microsoftzonename="Singapore Standard Time" microsoftname="(GMT+08:00) Kuala Lumpur, Singapore" zonecode="PHT" utc="+08:00" />
+  <timezone zonename="Phoenix Island Time" microsoftzonename="Tonga Standard Time" microsoftname="(GMT+13:00) Nuku'alofa" zonecode="PHOT" utc="+13:00" />
+  <timezone zonename="Pitcairn Standard Time" microsoftzonename="Pacific Standard Time" microsoftname="(GMT-08:00) Pacific Time (US and Canada); Tijuana" zonecode="PST" utc="-08:00" />
+  <timezone zonename="Reunion Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="RET" utc="+04:00" />
+  <timezone zonename="Rothera Station, Adelaide Island" microsoftzonename="" microsoftname="" zonecode="" utc="-03:00" />
+  <timezone zonename="Sakhalin Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="SAKT/SAKST" utc="+11:00" />
+  <timezone zonename="Samara Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="SAMT/SAMST" utc="+04:00" />
+  <timezone zonename="Samoa Standard Time" microsoftzonename="Samoa Standard Time" microsoftname="(GMT-11:00) Midway Island, Samoa" zonecode="SST" utc="-11:00" />
+  <timezone zonename="Samoa Time" microsoftzonename="Tonga Standard Time" microsoftname="(GMT+13:00) Nuku'alofa" zonecode="WST" utc="+13:00" />
+  <timezone zonename="SE Asia Standard Time" microsoftzonename="S.E. Asia Standard Time" microsoftname="(GMT+07:00) Bangkok, Hanoi, Jakarta" zonecode="ICT" utc="+07:00" />
+  <timezone zonename="Seychelles Time" microsoftzonename="Caucasus Standard Time" microsoftname="(GMT+04:00) Baku, Tbilisi, Yerevan" zonecode="SCT" utc="+04:00" />
+  <timezone zonename="Singapore Standard Time" microsoftzonename="Singapore Standard Time" microsoftname="(GMT+08:00) Kuala Lumpur, Singapore" zonecode="SGT" utc="+08:00" />
+  <timezone zonename="Sint-Maarten" microsoftzonename="Atlantic Standard Time" microsoftname="(GMT-04:00) Atlantic Time (Canada)" zonecode="AST" utc="-04:00" />
+  <timezone zonename="Solomon Islands Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="SBT" utc="+11:00" />
+  <timezone zonename="South African Standard Time" microsoftzonename="South Africa Standard Time" microsoftname="(GMT+02:00) Harare, Pretoria" zonecode="SAST" utc="+02:00" />
+  <timezone zonename="Southeast Zone" microsoftzonename="Eastern Standard Time" microsoftname="(GMT-05:00) Eastern Time (US and Canada)" zonecode="EST/EDT" utc="-05:00" />
+  <timezone zonename="Sri Lanka Time" microsoftzonename="Sri Lanka Standard Time" microsoftname="(GMT+06:00) Sri Jayawardenepura" zonecode="LKT" utc="+05:30" />
+  <timezone zonename="St Pierre and Miquelon Time" microsoftzonename="Newfoundland and Labrador Standard Time" microsoftname="(GMT-03:30) Newfoundland and Labrador" zonecode="PMST/PMDT" utc="-03:00" />
+  <timezone zonename="Suriname Time" microsoftzonename="E. South America Standard Time" microsoftname="(GMT-03:00) Brasilia" zonecode="SRT" utc="-03:00" />
+  <timezone zonename="Syowa Station, E Ongul I" microsoftzonename="" microsoftname="" zonecode="" utc="+03:00" />
+  <timezone zonename="Tahiti Time" microsoftzonename="Hawaiian Standard Time" microsoftname="(GMT-10:00) Hawaii" zonecode="TAHT" utc="-10:00" />
+  <timezone zonename="Tajikistan Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="TJT" utc="+05:00" />
+  <timezone zonename="Timor-Leste Time" microsoftzonename="Korea Standard Time" microsoftname="(GMT+09:00) Seoul" zonecode="TLT" utc="+09:00" />
+  <timezone zonename="Tokelau Time" microsoftzonename="Tonga Standard Time" microsoftname="(GMT+13:00) Nuku'alofa" zonecode="TKT" utc="+14:00" />
+  <timezone zonename="Tonga Time" microsoftzonename="Tonga Standard Time" microsoftname="(GMT+13:00) Nuku'alofa" zonecode="TOT" utc="+13:00" />
+  <timezone zonename="Troll Station, Queen Maud Land" microsoftzonename="" microsoftname="" zonecode="" utc="+00:00" />
+  <timezone zonename="Turkmenistan Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="TMT" utc="+05:00" />
+  <timezone zonename="Tuvalu Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="TVT" utc="+12:00" />
+  <timezone zonename="Ulaanbaatar Time" microsoftzonename="North Asia East Standard Time" microsoftname="(GMT+08:00) Irkutsk, Ulaanbaatar" zonecode="ULAT/ULAST" utc="+08:00" />
+  <timezone zonename="Uruguay Standard Time" microsoftzonename="S.A. Eastern Standard Time" microsoftname="(GMT-03:00) Buenos Aires, Georgetown" zonecode="UYT/UYST" utc="-03:00" />
+  <timezone zonename="Uzbekistan Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="UZT" utc="+05:00" />
+  <timezone zonename="Vanuatu Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="VUT" utc="+11:00" />
+  <timezone zonename="Venezuelan Standard Time" microsoftzonename="S.A. Western Standard Time" microsoftname="(GMT-04:00) Caracas, La Paz" zonecode="VET" utc="-04:30" />
+  <timezone zonename="Vladivostok Time" microsoftzonename="Central Pacific Standard Time" microsoftname="(GMT+11:00) Magadan, Solomon Islands, New Caledonia" zonecode="VLAT/VLAST" utc="+11:00" />
+  <timezone zonename="Vostok Station, Lake Vostok" microsoftzonename="" microsoftname="" zonecode="" utc="+06:00" />
+  <timezone zonename="Wallis et Futuna Time" microsoftzonename="Fiji Islands Standard Time" microsoftname="(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands" zonecode="WFT" utc="+12:00" />
+  <timezone zonename="West Africa Time" microsoftzonename="W. Central Africa Standard Time" microsoftname="(GMT+01:00) West Central Africa" zonecode="WAT" utc="+01:00" />
+  <timezone zonename="Western European Time" microsoftzonename="Greenwich Standard Time" microsoftname="(GMT) Casablanca, Monrovia" zonecode="WET/WEST" utc="+00:00" />
+  <timezone zonename="Western Indonesian Time" microsoftzonename="S.E. Asia Standard Time" microsoftname="(GMT+07:00) Bangkok, Hanoi, Jakarta" zonecode="WIB" utc="+07:00" />
+  <timezone zonename="Western Kazakhstan Time" microsoftzonename="West Asia Standard Time" microsoftname="(GMT+05:00) Islamabad, Karachi, Tashkent" zonecode="AQTT" utc="+05:00" />
+  <timezone zonename="Yakutsk Time" microsoftzonename="Vladivostok Standard Time" microsoftname="(GMT+10:00) Vladivostok" zonecode="YAKT/YAKST" utc="+10:00" />
+  <timezone zonename="Yekaterinburg Time" microsoftzonename="N. Central Asia Standard Time" microsoftname="(GMT+06:00) Almaty, Novosibirsk" zonecode="YEKT/YEKST" utc="+06:00" />
+</timezones>

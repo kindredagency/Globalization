@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<countrytimezones>
+  <countrytimezone countrycodetwoletter="AD" zonename="Central European Time"  olson="Europe/Andorra" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="AE" zonename="Arabian Standard Time"  olson="Asia/Dubai" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="AF" zonename="Afghanistan Time"  olson="Asia/Kabul" dst="+04:30" />
+  <countrytimezone countrycodetwoletter="AG" zonename="Atlantic Standard Time"  olson="America/Antigua" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="AI" zonename="Atlantic Standard Time"  olson="America/Anguilla" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="AL" zonename="Central European Time"  olson="Europe/Tirane" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="AM" zonename="Armenia Time"  olson="Asia/Yerevan" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="AO" zonename="West Africa Time"  olson="Africa/Luanda" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Amundsen-Scott Station, South Pole"  olson="Antarctica/South_Pole" dst="+13:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Casey Station, Bailey Peninsula"  olson="Antarctica/Casey" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Davis Station, Vestfold Hills"  olson="Antarctica/Davis" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Mawson Station, Holme Bay"  olson="Antarctica/Mawson" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Palmer Station, Anvers Island"  olson="Antarctica/Palmer" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Rothera Station, Adelaide Island"  olson="Antarctica/Rothera" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Syowa Station, E Ongul I"  olson="Antarctica/Syowa" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Troll Station, Queen Maud Land"  olson="Antarctica/Troll" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="AQ" zonename="Vostok Station, Lake Vostok"  olson="Antarctica/Vostok" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Buenos_Aires" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Catamarca" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Cordoba" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Jujuy" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/La_Rioja" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Mendoza" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Rio_Gallegos" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Salta" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/San_Juan" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/San_Luis" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Tucuman" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AR" zonename="Argentina Time"  olson="America/Argentina/Ushuaia" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="AS" zonename="American Samoa"  olson="Pacific/Samoa" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AS" zonename="Samoa Standard Time"  olson="Pacific/Pago_Pago" dst="-11:00" />
+  <countrytimezone countrycodetwoletter="AT" zonename="Central European Time"  olson="Europe/Vienna" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Central Standard Time"  olson="Australia/Adelaide" dst="+10:30" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Central Standard Time"  olson="Australia/Broken_Hill" dst="+10:30" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Central Standard Time"  olson="Australia/Darwin" dst="+09:30" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Brisbane" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Currie" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Hobart" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Lindeman" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Melbourne" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Eastern Standard Time"  olson="Australia/Sydney" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Australian Western Standard Time"  olson="Australia/Perth" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Central Western Australia Time"  olson="Australia/Eucla" dst="+08:45" />
+  <countrytimezone countrycodetwoletter="AU" zonename="Lord Howe Time"  olson="Australia/Lord_Howe" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="AW" zonename="Atlantic Standard Time"  olson="America/Aruba" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="AX" zonename="Eastern European Time"  olson="Europe/Mariehamn" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="AZ" zonename="Azerbaijan Time"  olson="Asia/Baku" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="BA" zonename="Central European Time"  olson="Europe/Sarajevo" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="BB" zonename="Atlantic Standard Time"  olson="America/Barbados" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BD" zonename="Bangladesh Standard Time"  olson="Asia/Dhaka" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="BE" zonename="Central European Time"  olson="Europe/Brussels" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="BF" zonename="Greenwich Mean Time"  olson="Africa/Ouagadougou" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="BG" zonename="Eastern European Time"  olson="Europe/Sofia" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="BH" zonename="Arabic Standard Time"  olson="Asia/Bahrain" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="BI" zonename="Central Africa Time"  olson="Africa/Bujumbura" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="BJ" zonename="West Africa Time"  olson="Africa/Porto-Novo" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="BL" zonename="Atlantic Standard Time"  olson="America/St_Barthelemy" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BM" zonename="Atlantic Standard Time"  olson="Atlantic/Bermuda" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BN" zonename="Brunei Time"  olson="Asia/Brunei" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="BO" zonename="Bolivia Time"  olson="America/La_Paz" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BQ" zonename="Caribbean Netherlands"  olson="America/Bonaire" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Boa_Vista" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Campo_Grande" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Cuiaba" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Eirunepe" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Manaus" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Porto_Velho" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Rio_Branco" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Amazon Time"  olson="America/Santarem" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Araguaina" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Bahia" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Belem" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Fortaleza" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Maceio" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Recife" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Brasilia Time"  olson="America/Sao_Paulo" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="BR" zonename="Fernando de Noronha Time"  olson="America/Noronha" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="BS" zonename="Eastern Standard Time"  olson="America/Nassau" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="BT" zonename="Bhutan Time"  olson="Asia/Thimphu" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="BV" zonename="Bouvet Island"  olson="Antarctica/Bouvet" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="BW" zonename="Central Africa Time"  olson="Africa/Gaborone" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="BY" zonename="Eastern European Time"  olson="Europe/Minsk" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="BZ" zonename="Central Standard Time"  olson="America/Belize" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Atlantic Standard Time"  olson="America/Blanc-Sablon" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Atlantic Standard Time"  olson="America/Glace_Bay" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Atlantic Standard Time"  olson="America/Goose_Bay" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Atlantic Standard Time"  olson="America/Halifax" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Atlantic Standard Time"  olson="America/Moncton" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Central Standard Time"  olson="America/Rainy_River" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Central Standard Time"  olson="America/Rankin_Inlet" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Central Standard Time"  olson="America/Regina" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Central Standard Time"  olson="America/Swift_Current" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Central Standard Time"  olson="America/Winnipeg" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Atikokan" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Coral_Harbour" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Iqaluit" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Montreal" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Nipigon" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Pangnirtung" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Resolute" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Thunder_Bay" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Eastern Standard Time"  olson="America/Toronto" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Mountain Standard Time"  olson="America/Cambridge_Bay" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Mountain Standard Time"  olson="America/Dawson_Creek" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Mountain Standard Time"  olson="America/Edmonton" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Mountain Standard Time"  olson="America/Inuvik" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Mountain Standard Time"  olson="America/Yellowknife" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Newfoundland Time"  olson="America/St_Johns" dst="-02:30" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Pacific Standard Time"  olson="America/Dawson" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Pacific Standard Time"  olson="America/Vancouver" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="CA" zonename="Pacific Standard Time"  olson="America/Whitehorse" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="CC" zonename="Cocos Islands Time"  olson="Indian/Cocos" dst="+06:30" />
+  <countrytimezone countrycodetwoletter="CD" zonename="Central Africa Time"  olson="Africa/Lubumbashi" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="CD" zonename="West Africa Time"  olson="Africa/Kinshasa" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="CF" zonename="West Africa Time"  olson="Africa/Bangui" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="CG" zonename="West Africa Time"  olson="Africa/Brazzaville" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="CH" zonename="Central European Time"  olson="Europe/Zurich" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="CI" zonename="Greenwich Mean Time"  olson="Africa/Abidjan" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="CK" zonename="Hawaii Standard Time"  olson="Pacific/Rarotonga" dst="-10:00" />
+  <countrytimezone countrycodetwoletter="CL" zonename="Chile Standard Time"  olson="America/Santiago" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="CL" zonename="Easter Island Standard Time"  olson="Pacific/Easter" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CM" zonename="West Africa Time"  olson="Africa/Douala" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="CN" zonename="China Standard Time"  olson="Asia/Chongqing" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="CN" zonename="China Standard Time"  olson="Asia/Harbin" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="CN" zonename="China Standard Time"  olson="Asia/Kashgar" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="CN" zonename="China Standard Time"  olson="Asia/Shanghai" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="CN" zonename="China Standard Time"  olson="Asia/Urumqi" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="CO" zonename="Colombia Time"  olson="America/Bogota" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="CR" zonename="Central Standard Time"  olson="America/Costa_Rica" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="CU" zonename="Eastern Standard Time"  olson="America/Havana" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CV" zonename="Cape Verde Time"  olson="Atlantic/Cape_Verde" dst="-01:00" />
+  <countrytimezone countrycodetwoletter="CW" zonename="Atlantic Standard Time"  olson="America/Curacao" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="CX" zonename="Line Islands Time"  olson="Indian/Christmas" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="CY" zonename="Eastern European Time"  olson="Asia/Nicosia" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="CZ" zonename="Central European Time"  olson="Europe/Prague" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="DE" zonename="Central European Time"  olson="Europe/Berlin" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="DJ" zonename="East Africa Time"  olson="Africa/Djibouti" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="DK" zonename="Central European Time"  olson="Europe/Copenhagen" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="DM" zonename="Atlantic Standard Time"  olson="America/Dominica" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="DO" zonename="Atlantic Standard Time"  olson="America/Santo_Domingo" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="DZ" zonename="Central European Time"  olson="Africa/Algiers" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="EC" zonename="Ecuador Time"  olson="America/Guayaquil" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="EC" zonename="Gal&#225;pagos Time"  olson="Pacific/Galapagos" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="EE" zonename="Eastern European Time"  olson="Europe/Tallinn" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="EG" zonename="Eastern European Time"  olson="Africa/Cairo" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="EH" zonename="Greenwich Mean Time"  olson="Africa/El_Aaiun" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="ER" zonename="East Africa Time"  olson="Africa/Asmara" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="ES" zonename="Central European Time"  olson="Africa/Ceuta" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ES" zonename="Central European Time"  olson="Europe/Madrid" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ES" zonename="Western European Time"  olson="Atlantic/Canary" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="ET" zonename="East Africa Time"  olson="Africa/Addis_Ababa" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="FI" zonename="Eastern European Time"  olson="Europe/Helsinki" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="FJ" zonename="Fiji Time"  olson="Pacific/Fiji" dst="+13:00" />
+  <countrytimezone countrycodetwoletter="FK" zonename="Falkland Islands Time"  olson="Atlantic/Stanley" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="FM" zonename="Chamorro Standard Time"  olson="Pacific/Chuuk" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="FM" zonename="Kosrae Time"  olson="Pacific/Kosrae" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="FM" zonename="Kosrae Time"  olson="Pacific/Pohnpei" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="FO" zonename="Western European Time"  olson="Atlantic/Faroe" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="FR" zonename="Central European Time"  olson="Europe/Paris" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="GA" zonename="West Africa Time"  olson="Africa/Libreville" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="GB" zonename="Greenwich Mean Time"  olson="Europe/London" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="GD" zonename="Atlantic Standard Time"  olson="America/Grenada" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="GE" zonename="Georgia Time"  olson="Asia/Tbilisi" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="GF" zonename="French Guiana Time"  olson="America/Cayenne" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="GG" zonename="Greenwich Mean Time"  olson="Europe/Guernsey" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="GH" zonename="Greenwich Mean Time"  olson="Africa/Accra" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GI" zonename="Central European Time"  olson="Europe/Gibraltar" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="GL" zonename="Central Greenland"  olson="America/Godthab" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="GL" zonename="Greenland Time"  olson="America/Scoresbysund" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GL" zonename="Greenwich Mean Time"  olson="America/Danmarkshavn" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GL" zonename="Northwestern Greenland"  olson="America/Thule" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="GM" zonename="Greenwich Mean Time"  olson="Africa/Banjul" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GN" zonename="Greenwich Mean Time"  olson="Africa/Conakry" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GP" zonename="Atlantic Standard Time"  olson="America/Guadeloupe" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="GQ" zonename="West Africa Time"  olson="Africa/Malabo" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="GR" zonename="Eastern European Time"  olson="Europe/Athens" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="GT" zonename="Central Standard Time"  olson="America/Guatemala" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="GU" zonename="Chamorro Standard Time"  olson="Pacific/Guam" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="GW" zonename="Greenwich Mean Time"  olson="Africa/Bissau" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="GY" zonename="Guyana Time"  olson="America/Guyana" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="HK" zonename="Hong Kong Time"  olson="Asia/Hong_Kong" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="HM" zonename="Heard and McDonald Islands"  olson="Australia/Heard_and_McDonald" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="HN" zonename="Central Standard Time"  olson="America/Tegucigalpa" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="HR" zonename="Central European Time"  olson="Europe/Zagreb" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="HT" zonename="Eastern Standard Time"  olson="America/Port-au-Prince" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="HU" zonename="Central European Time"  olson="Europe/Budapest" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ID" zonename="Central Indonesian Time"  olson="Asia/Makassar" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="ID" zonename="Eastern Indonesian Time"  olson="Asia/Jayapura" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="ID" zonename="Western Indonesian Time"  olson="Asia/Jakarta" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="ID" zonename="Western Indonesian Time"  olson="Asia/Pontianak" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="IE" zonename="Western European Time"  olson="Europe/Dublin" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="IL" zonename="Israel Standard Time"  olson="Asia/Jerusalem" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="IM" zonename="Greenwich Mean Time"  olson="Europe/Isle_of_Man" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="IN" zonename="Indian Standard Time"  olson="Asia/Kolkata" dst="+05:30" />
+  <countrytimezone countrycodetwoletter="IQ" zonename="Arabic Standard Time"  olson="Asia/Baghdad" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="IR" zonename="Iran Standard Time"  olson="Asia/Tehran" dst="+04:30" />
+  <countrytimezone countrycodetwoletter="IS" zonename="Greenwich Mean Time"  olson="Atlantic/Reykjavik" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="IT" zonename="Central European Time"  olson="Europe/Rome" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="JE" zonename="Greenwich Mean Time"  olson="Europe/Jersey" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="JM" zonename="Eastern Standard Time"  olson="America/Jamaica" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="JO" zonename="Arabia Standard Time"  olson="Asia/Amman" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="JP" zonename="Japan Standard Time"  olson="Asia/Tokyo" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="KE" zonename="East Africa Time"  olson="Africa/Nairobi" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="KG" zonename="Kyrgyzstan Time"  olson="Asia/Bishkek" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="KH" zonename="SE Asia Standard Time"  olson="Asia/Phnom_Penh" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="KI" zonename="Gilbert Island Time"  olson="Pacific/Tarawa" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="KI" zonename="Line Islands Time"  olson="Pacific/Kiritimati" dst="+14:00" />
+  <countrytimezone countrycodetwoletter="KI" zonename="Phoenix Island Time"  olson="Pacific/Enderbury" dst="+13:00" />
+  <countrytimezone countrycodetwoletter="KM" zonename="East Africa Time"  olson="Indian/Comoro" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="KN" zonename="Atlantic Standard Time"  olson="America/St_Kitts" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="KP" zonename="Korea Standard Time"  olson="Asia/Pyongyang" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="KR" zonename="Korea Standard Time"  olson="Asia/Seoul" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="KW" zonename="Arabic Standard Time"  olson="Asia/Kuwait" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="KY" zonename="Eastern Standard Time"  olson="America/Cayman" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="KZ" zonename="Eastern Kazakhstan Time"  olson="Asia/Almaty" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="KZ" zonename="Eastern Kazakhstan Time"  olson="Asia/Qyzylorda" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="KZ" zonename="Western Kazakhstan Time"  olson="Asia/Aqtau" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="KZ" zonename="Western Kazakhstan Time"  olson="Asia/Aqtobe" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="KZ" zonename="Western Kazakhstan Time"  olson="Asia/Oral" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="LA" zonename="SE Asia Standard Time"  olson="Asia/Vientiane" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="LB" zonename="Eastern European Time"  olson="Asia/Beirut" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="LC" zonename="Atlantic Standard Time"  olson="America/St_Lucia" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="LI" zonename="Central European Time"  olson="Europe/Vaduz" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="LK" zonename="Sri Lanka Time"  olson="Asia/Colombo" dst="+05:30" />
+  <countrytimezone countrycodetwoletter="LR" zonename="Greenwich Mean Time"  olson="Africa/Monrovia" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="LS" zonename="South African Standard Time"  olson="Africa/Maseru" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="LT" zonename="Eastern European Time"  olson="Europe/Vilnius" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="LU" zonename="Central European Time"  olson="Europe/Luxembourg" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="LV" zonename="Eastern European Time"  olson="Europe/Riga" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="LY" zonename="Eastern European Time"  olson="Africa/Tripoli" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="MA" zonename="Western European Time"  olson="Africa/Casablanca" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="MC" zonename="Central European Time"  olson="Europe/Monaco" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="MD" zonename="Eastern European Time"  olson="Europe/Chisinau" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="ME" zonename="Central European Time"  olson="Europe/Podgorica" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="MF" zonename="Atlantic Standard Time"  olson="America/Marigot" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="MG" zonename="East Africa Time"  olson="Indian/Antananarivo" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="MH" zonename="Marshall Time"  olson="Pacific/Kwajalein" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="MH" zonename="Marshall Time"  olson="Pacific/Majuro" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="MK" zonename="Central European Time"  olson="Europe/Skopje" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ML" zonename="Greenwich Mean Time"  olson="Africa/Bamako" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="MM" zonename="Myanmar Standard Time"  olson="Asia/Rangoon" dst="+06:30" />
+  <countrytimezone countrycodetwoletter="MN" zonename="Choibalsan Standard Time"  olson="Asia/Choibalsan" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="MN" zonename="Hovd Standard Time"  olson="Asia/Hovd" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="MN" zonename="Ulaanbaatar Time"  olson="Asia/Ulaanbaatar" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="MO" zonename="Macau Time"  olson="Asia/Macau" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="MP" zonename="Chamorro Standard Time"  olson="Pacific/Saipan" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="MQ" zonename="Atlantic Standard Time"  olson="America/Martinique" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="MR" zonename="Greenwich Mean Time"  olson="Africa/Nouakchott" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="MS" zonename="Atlantic Standard Time"  olson="America/Montserrat" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="MT" zonename="Central European Time"  olson="Europe/Malta" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="MU" zonename="Mauritius Time"  olson="Indian/Mauritius" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="MV" zonename="Maldives Time"  olson="Indian/Maldives" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="MW" zonename="Central Africa Time"  olson="Africa/Blantyre" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Central Zone"  olson="America/Bahia_Banderas" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Central Zone"  olson="America/Matamoros" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Central Zone"  olson="America/Merida" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Central Zone"  olson="America/Mexico_City" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Central Zone"  olson="America/Monterrey" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Northwest Zone"  olson="America/Ensenada" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Northwest Zone"  olson="America/Santa_Isabel" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Northwest Zone"  olson="America/Tijuana" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Pacific Zone"  olson="America/Chihuahua" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Pacific Zone"  olson="America/Hermosillo" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Pacific Zone"  olson="America/Mazatlan" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Pacific Zone"  olson="America/Ojinaga" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="MX" zonename="Southeast Zone"  olson="America/Cancun" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="MY" zonename="Malaysian Standard Time"  olson="Asia/Kuala_Lumpur" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="MY" zonename="Malaysian Standard Time"  olson="Asia/Kuching" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="MZ" zonename="Central Africa Time"  olson="Africa/Maputo" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="NA" zonename="West Africa Time"  olson="Africa/Windhoek" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="NC" zonename="New Caledonia Time"  olson="Pacific/Noumea" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="NE" zonename="West Africa Time"  olson="Africa/Niamey" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="NF" zonename="Norfolk Time"  olson="Pacific/Norfolk" dst="+11:30" />
+  <countrytimezone countrycodetwoletter="NG" zonename="West Africa Time"  olson="Africa/Lagos" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="NI" zonename="Central Standard Time"  olson="America/Managua" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="NL" zonename="Central European Time"  olson="Europe/Amsterdam" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="NO" zonename="Central European Time"  olson="Europe/Oslo" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="NP" zonename="Nepal Time"  olson="Asia/Kathmandu" dst="+05:45" />
+  <countrytimezone countrycodetwoletter="NR" zonename="Nauru Time"  olson="Pacific/Nauru" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="NU" zonename="Niue Time"  olson="Pacific/Niue" dst="-11:00" />
+  <countrytimezone countrycodetwoletter="NZ" zonename="Chatham Standard Time"  olson="Pacific/Chatham" dst="+13:45" />
+  <countrytimezone countrycodetwoletter="NZ" zonename="New Zealand Standard Time"  olson="Pacific/Auckland" dst="+13:00" />
+  <countrytimezone countrycodetwoletter="OM" zonename="Arabian Standard Time"  olson="Asia/Muscat" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="PA" zonename="Eastern Standard Time"  olson="America/Panama" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="PE" zonename="Peru Time"  olson="America/Lima" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="PF" zonename="Gambier Time"  olson="Pacific/Gambier" dst="-09:00" />
+  <countrytimezone countrycodetwoletter="PF" zonename="Marquesas Time"  olson="Pacific/Marquesas" dst="-09:30" />
+  <countrytimezone countrycodetwoletter="PF" zonename="Tahiti Time"  olson="Pacific/Tahiti" dst="-10:00" />
+  <countrytimezone countrycodetwoletter="PG" zonename="Papua New Guinea Time"  olson="Pacific/Port_Moresby" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="PH" zonename="Philippines Time"  olson="Asia/Manila" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="PK" zonename="Pakistan Standard Time"  olson="Asia/Karachi" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="PL" zonename="Central European Time"  olson="Europe/Warsaw" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="PM" zonename="St Pierre and Miquelon Time"  olson="America/Miquelon" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="PN" zonename="Pitcairn Standard Time"  olson="Pacific/Pitcairn" dst="-08:00" />
+  <countrytimezone countrycodetwoletter="PR" zonename="Atlantic Standard Time"  olson="America/Puerto_Rico" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="PS" zonename="Eastern European Time"  olson="Asia/Gaza" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="PT" zonename="Azores Standard Time"  olson="Atlantic/Azores" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="PT" zonename="Azores Standard Time"  olson="Atlantic/Madeira" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="PT" zonename="Western European Time"  olson="Europe/Lisbon" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="PW" zonename="Palau Time"  olson="Pacific/Palau" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="PY" zonename="Paraguay Standard Time"  olson="America/Asuncion" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="QA" zonename="Arabic Standard Time"  olson="Asia/Qatar" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="RE" zonename="Reunion Time"  olson="Indian/Reunion" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="RO" zonename="Eastern European Time"  olson="Europe/Bucharest" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="RS" zonename="Central European Time"  olson="Europe/Belgrade" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Anadyr Time"  olson="Asia/Anadyr" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Eastern European Time"  olson="Europe/Kaliningrad" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Irkutsk Time"  olson="Asia/Irkutsk" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Kamchatka Time"  olson="Asia/Kamchatka" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Krasnoyarsk Time"  olson="Asia/Krasnoyarsk" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Magadan Time"  olson="Asia/Magadan" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Moscow Standard Time"  olson="Europe/Moscow" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Moscow Standard Time"  olson="Europe/Volgograd" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Novosibirsk Time"  olson="Asia/Novokuznetsk" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Novosibirsk Time"  olson="Asia/Novosibirsk" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Omsk Time"  olson="Asia/Omsk" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Sakhalin Time"  olson="Asia/Sakhalin" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Samara Time"  olson="Europe/Samara" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Vladivostok Time"  olson="Asia/Vladivostok" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Yakutsk Time"  olson="Asia/Yakutsk" dst="+10:00" />
+  <countrytimezone countrycodetwoletter="RU" zonename="Yekaterinburg Time"  olson="Asia/Yekaterinburg" dst="+06:00" />
+  <countrytimezone countrycodetwoletter="RW" zonename="Central Africa Time"  olson="Africa/Kigali" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SA" zonename="Arabic Standard Time"  olson="Asia/Riyadh" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="SB" zonename="Solomon Islands Time"  olson="Pacific/Guadalcanal" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="SC" zonename="Seychelles Time"  olson="Indian/Mahe" dst="+04:00" />
+  <countrytimezone countrycodetwoletter="SD" zonename="East Africa Time"  olson="Africa/Khartoum" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="SE" zonename="Central European Time"  olson="Europe/Stockholm" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SG" zonename="Singapore Standard Time"  olson="Asia/Singapore" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="SH" zonename="Greenwich Mean Time"  olson="Atlantic/St_Helena" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="SI" zonename="Central European Time"  olson="Europe/Ljubljana" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SJ" zonename="Central European Time"  olson="Arctic/Longyearbyen" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SK" zonename="Central European Time"  olson="Europe/Bratislava" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SL" zonename="Greenwich Mean Time"  olson="Africa/Freetown" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="SM" zonename="Central European Time"  olson="Europe/San_Marino" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="SN" zonename="Greenwich Mean Time"  olson="Africa/Dakar" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="SO" zonename="East Africa Time"  olson="Africa/Mogadishu" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="SR" zonename="Suriname Time"  olson="America/Paramaribo" dst="-03:00" />
+  <countrytimezone countrycodetwoletter="SS" zonename="East Africa Time"  olson="Africa/Juba" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="ST" zonename="Greenwich Mean Time"  olson="Africa/Sao_Tome" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="SV" zonename="Central Standard Time"  olson="America/El_Salvador" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="SX" zonename="Sint-Maarten"  olson="America/Sint-Maarten" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="SY" zonename="Eastern European Time"  olson="Asia/Damascus" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="SZ" zonename="South African Standard Time"  olson="Africa/Mbabane" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="TC" zonename="Eastern Standard Time"  olson="America/Grand_Turk" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="TD" zonename="West Africa Time"  olson="Africa/Ndjamena" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="TF" zonename="French Southern and Antarctic Time"  olson="Indian/Kerguelen" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="TG" zonename="Greenwich Mean Time"  olson="Africa/Lome" dst="+00:00" />
+  <countrytimezone countrycodetwoletter="TH" zonename="SE Asia Standard Time"  olson="Asia/Bangkok" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="TJ" zonename="Tajikistan Time"  olson="Asia/Dushanbe" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="TK" zonename="Tokelau Time"  olson="Pacific/Fakaofo" dst="+14:00" />
+  <countrytimezone countrycodetwoletter="TL" zonename="Timor-Leste Time"  olson="Asia/Dili" dst="+09:00" />
+  <countrytimezone countrycodetwoletter="TM" zonename="Turkmenistan Time"  olson="Asia/Ashgabat" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="TN" zonename="Central European Time"  olson="Africa/Tunis" dst="+01:00" />
+  <countrytimezone countrycodetwoletter="TO" zonename="Tonga Time"  olson="Pacific/Tongatapu" dst="+13:00" />
+  <countrytimezone countrycodetwoletter="TR" zonename="Eastern European Time"  olson="Europe/Istanbul" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="TT" zonename="Atlantic Standard Time"  olson="America/Port_of_Spain" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="TV" zonename="Tuvalu Time"  olson="Pacific/Funafuti" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="TW" zonename="China Standard Time"  olson="Asia/Taipei" dst="+08:00" />
+  <countrytimezone countrycodetwoletter="TZ" zonename="East Africa Time"  olson="Africa/Dar_es_Salaam" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UA" zonename="Eastern European Time"  olson="Europe/Kiev" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UA" zonename="Eastern European Time"  olson="Europe/Simferopol" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UA" zonename="Eastern European Time"  olson="Europe/Uzhgorod" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UA" zonename="Eastern European Time"  olson="Europe/Zaporozhye" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UG" zonename="East Africa Time"  olson="Africa/Kampala" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="UM" zonename="Hawaii Standard Time"  olson="Pacific/Johnston" dst="-10:00" />
+  <countrytimezone countrycodetwoletter="UM" zonename="Samoa Standard Time"  olson="Pacific/Midway" dst="-11:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Alaska Standard Time"  olson="America/Anchorage" dst="-08:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Alaska Standard Time"  olson="America/Juneau" dst="-08:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Alaska Standard Time"  olson="America/Nome" dst="-08:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Alaska Standard Time"  olson="America/Yakutat" dst="-08:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/Chicago" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/Indiana/Knox" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/Indiana/Tell_City" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/Menominee" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/North_Dakota/Beulah" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/North_Dakota/Center" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Central Standard Time"  olson="America/North_Dakota/New_Salem" dst="-05:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Detroit" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Indianapolis" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Marengo" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Petersburg" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Vevay" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Vincennes" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Indiana/Winamac" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Kentucky/Louisville" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/Kentucky/Monticello" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Eastern Standard Time"  olson="America/New_York" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Hawaii Standard Time"  olson="America/Adak" dst="-09:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Hawaii Standard Time"  olson="Pacific/Honolulu" dst="-10:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Mountain Standard Time"  olson="America/Boise" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Mountain Standard Time"  olson="America/Denver" dst="-06:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Mountain Standard Time"  olson="America/Phoenix" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="US" zonename="Pacific Standard Time"  olson="America/Los_Angeles" dst="-07:00" />
+  <countrytimezone countrycodetwoletter="UY" zonename="Uruguay Standard Time"  olson="America/Montevideo" dst="-02:00" />
+  <countrytimezone countrycodetwoletter="UZ" zonename="Uzbekistan Time"  olson="Asia/Samarkand" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="UZ" zonename="Uzbekistan Time"  olson="Asia/Tashkent" dst="+05:00" />
+  <countrytimezone countrycodetwoletter="VA" zonename="Central European Time"  olson="Europe/Vatican" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="VC" zonename="Atlantic Standard Time"  olson="America/St_Vincent" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="VE" zonename="Venezuelan Standard Time"  olson="America/Caracas" dst="-04:30" />
+  <countrytimezone countrycodetwoletter="VG" zonename="Atlantic Standard Time"  olson="America/Tortola" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="VI" zonename="Atlantic Standard Time"  olson="America/St_Thomas" dst="-04:00" />
+  <countrytimezone countrycodetwoletter="VN" zonename="SE Asia Standard Time"  olson="Asia/Ho_Chi_Minh" dst="+07:00" />
+  <countrytimezone countrycodetwoletter="VU" zonename="Vanuatu Time"  olson="Pacific/Efate" dst="+11:00" />
+  <countrytimezone countrycodetwoletter="WF" zonename="Wallis et Futuna Time"  olson="Pacific/Wallis" dst="+12:00" />
+  <countrytimezone countrycodetwoletter="WS" zonename="Samoa Time"  olson="Pacific/Apia" dst="+14:00" />
+  <countrytimezone countrycodetwoletter="XK" zonename="Central European Time"  olson="Europe/Pristina" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="YE" zonename="Arabic Standard Time"  olson="Asia/Aden" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="YT" zonename="East Africa Time"  olson="Indian/Mayotte" dst="+03:00" />
+  <countrytimezone countrycodetwoletter="ZA" zonename="South African Standard Time"  olson="Africa/Johannesburg" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ZM" zonename="Central Africa Time"  olson="Africa/Lusaka" dst="+02:00" />
+  <countrytimezone countrycodetwoletter="ZW" zonename="Central Africa Time"  olson="Africa/Harare" dst="+02:00" />
+</countrytimezones>

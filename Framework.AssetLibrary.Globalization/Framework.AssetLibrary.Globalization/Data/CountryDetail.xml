@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<countries>  
+    <country countrycodetwoletter="DJ" phonecode="253" continent="Africa" capital="Djibouti" olsonforcapital="Africa/Djibouti" areakm2="23000" />
+    <country countrycodetwoletter="ER" phonecode="291" continent="Africa" capital="Asmara" olsonforcapital="Africa/Asmara" areakm2="121320" />
+    <country countrycodetwoletter="ET" phonecode="251" continent="Africa" capital="Addis Ababa" olsonforcapital="Africa/Addis_Ababa" areakm2="1127127" />
+    <country countrycodetwoletter="AF" phonecode="93" continent="Asia" capital="Kabul" olsonforcapital="Asia/Kabul" areakm2="647500" />
+    <country countrycodetwoletter="NA" phonecode="264" continent="Africa" capital="Windhoek" olsonforcapital="Africa/Windhoek" areakm2="825418" />
+    <country countrycodetwoletter="ZA" phonecode="27" continent="Africa" capital="Pretoria" olsonforcapital="Africa/Johannesburg" areakm2="1219912" />
+    <country countrycodetwoletter="CM" phonecode="237" continent="Africa" capital="Yaounde" olsonforcapital="Africa/Douala" areakm2="475440" />
+    <country countrycodetwoletter="GH" phonecode="233" continent="Africa" capital="Accra" olsonforcapital="Africa/Accra" areakm2="239460" />
+    <country countrycodetwoletter="AM" phonecode="374" continent="Asia" capital="Yerevan" olsonforcapital="Asia/Yerevan" areakm2="29800" />
+    <country countrycodetwoletter="AR" phonecode="54" continent="South America" capital="Buenos Aires" olsonforcapital="America/Argentina/Buenos_Aires" areakm2="2766890" />
+    <country countrycodetwoletter="AE" phonecode="971" continent="Asia" capital="Abu Dhabi" olsonforcapital="Asia/Dubai" areakm2="82880" />
+    <country countrycodetwoletter="BH" phonecode="973" continent="Asia" capital="Manama" olsonforcapital="Asia/Bahrain" areakm2="665" />
+    <country countrycodetwoletter="DZ" phonecode="213" continent="Africa" capital="Algiers" olsonforcapital="Africa/Algiers" areakm2="2381740" />
+    <country countrycodetwoletter="EG" phonecode="20" continent="Africa" capital="Cairo" olsonforcapital="Africa/Cairo" areakm2="1001450" />
+    <country countrycodetwoletter="IL" phonecode="972" continent="Asia" capital="Jerusalem" olsonforcapital="Asia/Jerusalem" areakm2="20770" />
+    <country countrycodetwoletter="IQ" phonecode="964" continent="Asia" capital="Baghdad" olsonforcapital="Asia/Baghdad" areakm2="437072" />
+    <country countrycodetwoletter="JO" phonecode="962" continent="Asia" capital="Amman" olsonforcapital="Asia/Amman" areakm2="92300" />
+    <country countrycodetwoletter="KM" phonecode="269" continent="Africa" capital="Moroni" olsonforcapital="Indian/Comoro" areakm2="2170" />
+    <country countrycodetwoletter="KW" phonecode="965" continent="Asia" capital="Kuwait City" olsonforcapital="Asia/Kuwait" areakm2="17820" />
+    <country countrycodetwoletter="LB" phonecode="961" continent="Asia" capital="Beirut" olsonforcapital="Asia/Beirut" areakm2="10400" />
+    <country countrycodetwoletter="LY" phonecode="218" continent="Africa" capital="Tripolis" olsonforcapital="Africa/Tripoli" areakm2="1759540" />
+    <country countrycodetwoletter="MA" phonecode="212" continent="Africa" capital="Rabat" olsonforcapital="Africa/Casablanca" areakm2="446550" />
+    <country countrycodetwoletter="MR" phonecode="222" continent="Africa" capital="Nouakchott" olsonforcapital="Africa/Nouakchott" areakm2="1030700" />
+    <country countrycodetwoletter="OM" phonecode="968" continent="Asia" capital="Muscat" olsonforcapital="Asia/Muscat" areakm2="212460" />
+    <country countrycodetwoletter="PS" phonecode="970" continent="Asia" capital="East Jerusalem" olsonforcapital="Asia/Gaza" areakm2="5970" />
+    <country countrycodetwoletter="QA" phonecode="974" continent="Asia" capital="Doha" olsonforcapital="Asia/Qatar" areakm2="11437" />
+    <country countrycodetwoletter="SA" phonecode="966" continent="Asia" capital="Riyadh" olsonforcapital="Asia/Riyadh" areakm2="1960582" />
+    <country countrycodetwoletter="SD" phonecode="249" continent="Africa" capital="Khartoum" olsonforcapital="Africa/Khartoum" areakm2="1861484" />
+    <country countrycodetwoletter="SO" phonecode="252" continent="Africa" capital="Mogadishu" olsonforcapital="Africa/Mogadishu" areakm2="637657" />
+    <country countrycodetwoletter="SY" phonecode="963" continent="Asia" capital="Damascus" olsonforcapital="Asia/Damascus" areakm2="185180" />
+    <country countrycodetwoletter="TD" phonecode="235" continent="Africa" capital="N&#39;Djamena" olsonforcapital="Africa/Ndjamena" areakm2="1284000" />
+    <country countrycodetwoletter="TN" phonecode="216" continent="Africa" capital="Tunis" olsonforcapital="Africa/Tunis" areakm2="163610" />
+    <country countrycodetwoletter="YE" phonecode="967" continent="Asia" capital="Sanaa" olsonforcapital="Asia/Aden" areakm2="527970" />
+    <country countrycodetwoletter="CL" phonecode="56" continent="South America" capital="Santiago" olsonforcapital="America/Santiago" areakm2="756950" />
+    <country countrycodetwoletter="AS" phonecode="1-684" continent="Oceania" capital="Pago Pago" olsonforcapital="Pacific/Pago_Pago" areakm2="199" />
+    <country countrycodetwoletter="IN" phonecode="91" continent="Asia" capital="New Delhi" olsonforcapital="Asia/Kolkata" areakm2="3287590" />
+    <country countrycodetwoletter="TZ" phonecode="255" continent="Africa" capital="Dodoma" olsonforcapital="Africa/Dar_es_Salaam" areakm2="945087" />
+    <country countrycodetwoletter="ES" phonecode="34" continent="Europe" capital="Madrid" olsonforcapital="Europe/Madrid" areakm2="504782" />
+    <country countrycodetwoletter="AZ" phonecode="994" continent="Asia" capital="Baku" olsonforcapital="Asia/Baku" areakm2="86600" />
+    <country countrycodetwoletter="BA" phonecode="387" continent="Europe" capital="Sarajevo" olsonforcapital="Europe/Sarajevo" areakm2="51129" />
+    <country countrycodetwoletter="RU" phonecode="7" continent="Europe" capital="Moscow" olsonforcapital="Europe/Moscow" areakm2="17100000" />
+    <country countrycodetwoletter="BE" phonecode="32" continent="Europe" capital="Brussels" olsonforcapital="Europe/Brussels" areakm2="30510" />
+    <country countrycodetwoletter="BY" phonecode="375" continent="Europe" capital="Minsk" olsonforcapital="Europe/Minsk" areakm2="207600" />
+    <country countrycodetwoletter="ZM" phonecode="260" continent="Africa" capital="Lusaka" olsonforcapital="Africa/Lusaka" areakm2="752614" />
+    <country countrycodetwoletter="BG" phonecode="359" continent="Europe" capital="Sofia" olsonforcapital="Europe/Sofia" areakm2="110910" />
+    <country countrycodetwoletter="NG" phonecode="234" continent="Africa" capital="Abuja" olsonforcapital="Africa/Lagos" areakm2="923768" />
+    <country countrycodetwoletter="BM" phonecode="1-441" continent="North America" capital="Hamilton" olsonforcapital="Atlantic/Bermuda" areakm2="53" />
+    <country countrycodetwoletter="ML" phonecode="223" continent="Africa" capital="Bamako" olsonforcapital="Africa/Bamako" areakm2="1240000" />
+    <country countrycodetwoletter="BN" phonecode="673" continent="Asia" capital="Bandar Seri Begawan" olsonforcapital="Asia/Brunei" areakm2="5770" />
+    <country countrycodetwoletter="BD" phonecode="880" continent="Asia" capital="Dhaka" olsonforcapital="Asia/Dhaka" areakm2="144000" />
+    <country countrycodetwoletter="BO" phonecode="591" continent="South America" capital="Sucre" olsonforcapital="America/La_Paz" areakm2="1098580" />
+    <country countrycodetwoletter="CN" phonecode="86" continent="Asia" capital="Beijing" olsonforcapital="Asia/Shanghai" areakm2="9596960" />
+    <country countrycodetwoletter="BR" phonecode="55" continent="South America" capital="Brasilia" olsonforcapital="America/Sao_Paulo" areakm2="8511965" />
+    <country countrycodetwoletter="FR" phonecode="33" continent="Europe" capital="Paris" olsonforcapital="Europe/Paris" areakm2="547030" />
+    <country countrycodetwoletter="BS" phonecode="1-242" continent="North America" capital="Nassau" olsonforcapital="America/Nassau" areakm2="13940" />
+    <country countrycodetwoletter="CA" phonecode="1" continent="North America" capital="Ottawa" olsonforcapital="America/Toronto" areakm2="9984670" />
+    <country countrycodetwoletter="AD" phonecode="376" continent="Europe" capital="Andorra la Vella" olsonforcapital="Europe/Andorra" areakm2="468" />
+    <country countrycodetwoletter="IT" phonecode="39" continent="Europe" capital="Rome" olsonforcapital="Europe/Rome" areakm2="301230" />
+    <country countrycodetwoletter="UG" phonecode="256" continent="Africa" capital="Kampala" olsonforcapital="Africa/Kampala" areakm2="236040" />
+    <country countrycodetwoletter="US" phonecode="1" continent="North America" capital="Washington" olsonforcapital="America/New_York" areakm2="9629091" />
+    <country countrycodetwoletter="CO" phonecode="57" continent="South America" capital="Bogota" olsonforcapital="America/Bogota" areakm2="1138910" />
+    <country countrycodetwoletter="CZ" phonecode="420" continent="Europe" capital="Prague" olsonforcapital="Europe/Prague" areakm2="78866" />
+    <country countrycodetwoletter="CY" phonecode="357" continent="Europe" capital="Nicosia" olsonforcapital="Asia/Nicosia" areakm2="9250" />
+    <country countrycodetwoletter="GB" phonecode="44" continent="Europe" capital="London" olsonforcapital="Europe/London" areakm2="244820" />
+    <country countrycodetwoletter="DK" phonecode="45" continent="Europe" capital="Copenhagen" olsonforcapital="Europe/Copenhagen" areakm2="43094" />
+    <country countrycodetwoletter="GL" phonecode="299" continent="North America" capital="Nuuk" olsonforcapital="America/Godthab" areakm2="2166086" />
+    <country countrycodetwoletter="KE" phonecode="254" continent="Africa" capital="Nairobi" olsonforcapital="Africa/Nairobi" areakm2="582650" />
+    <country countrycodetwoletter="DE" phonecode="49" continent="Europe" capital="Berlin" olsonforcapital="Europe/Berlin" areakm2="357021" />
+    <country countrycodetwoletter="AT" phonecode="43" continent="Europe" capital="Vienna" olsonforcapital="Europe/Vienna" areakm2="83858" />
+    <country countrycodetwoletter="CH" phonecode="41" continent="Europe" capital="Berne" olsonforcapital="Europe/Zurich" areakm2="41290" />
+    <country countrycodetwoletter="LI" phonecode="423" continent="Europe" capital="Vaduz" olsonforcapital="Europe/Vaduz" areakm2="160" />
+    <country countrycodetwoletter="LU" phonecode="352" continent="Europe" capital="Luxembourg" olsonforcapital="Europe/Luxembourg" areakm2="2586" />
+    <country countrycodetwoletter="NE" phonecode="227" continent="Africa" capital="Niamey" olsonforcapital="Africa/Niamey" areakm2="1267000" />
+    <country countrycodetwoletter="MV" phonecode="960" continent="Asia" capital="Male" olsonforcapital="Indian/Maldives" areakm2="300" />
+    <country countrycodetwoletter="SN" phonecode="221" continent="Africa" capital="Dakar" olsonforcapital="Africa/Dakar" areakm2="196190" />
+    <country countrycodetwoletter="BT" phonecode="975" continent="Asia" capital="Thimphu" olsonforcapital="Asia/Thimphu" areakm2="47000" />
+    <country countrycodetwoletter="EE" phonecode="372" continent="Europe" capital="Tallinn" olsonforcapital="Europe/Tallinn" areakm2="45226" />
+    <country countrycodetwoletter="TG" phonecode="228" continent="Africa" capital="Lome" olsonforcapital="Africa/Lome" areakm2="56785" />
+    <country countrycodetwoletter="GR" phonecode="30" continent="Europe" capital="Athens" olsonforcapital="Europe/Athens" areakm2="131940" />
+    <country countrycodetwoletter="AG" phonecode="1-268" continent="North America" capital="St. John&#39;s" olsonforcapital="America/Antigua" areakm2="443" />
+    <country countrycodetwoletter="AI" phonecode="1-264" continent="North America" capital="The Valley" olsonforcapital="America/Anguilla" areakm2="102" />
+    <country countrycodetwoletter="AU" phonecode="61" continent="Oceania" capital="Canberra" olsonforcapital="Australia/Sydney" areakm2="7686850" />
+    <country countrycodetwoletter="BB" phonecode="1-246" continent="North America" capital="Bridgetown" olsonforcapital="America/Barbados" areakm2="431" />
+    <country countrycodetwoletter="BW" phonecode="267" continent="Africa" capital="Gaborone" olsonforcapital="Africa/Gaborone" areakm2="600370" />
+    <country countrycodetwoletter="BZ" phonecode="501" continent="North America" capital="Belmopan" olsonforcapital="America/Belize" areakm2="22966" />
+    <country countrycodetwoletter="CK" phonecode="682" continent="Oceania" capital="Avarua" olsonforcapital="Pacific/Rarotonga" areakm2="240" />
+    <country countrycodetwoletter="DM" phonecode="1-767" continent="North America" capital="Roseau" olsonforcapital="America/Dominica" areakm2="754" />
+    <country countrycodetwoletter="FJ" phonecode="679" continent="Oceania" capital="Suva" olsonforcapital="Pacific/Fiji" areakm2="18270" />
+    <country countrycodetwoletter="FM" phonecode="691" continent="Oceania" capital="Palikir" olsonforcapital="Pacific/Pohnpei" areakm2="702" />
+    <country countrycodetwoletter="GD" phonecode="1-473" continent="North America" capital="St. George&#39;s" olsonforcapital="America/Grenada" areakm2="344" />
+    <country countrycodetwoletter="GG" phonecode="44-1481" continent="Europe" capital="St Peter Port" olsonforcapital="Europe/Guernsey" areakm2="78" />
+    <country countrycodetwoletter="GI" phonecode="350" continent="Europe" capital="Gibraltar" olsonforcapital="Europe/Gibraltar" areakm2="7" />
+    <country countrycodetwoletter="GM" phonecode="220" continent="Africa" capital="Banjul" olsonforcapital="Africa/Banjul" areakm2="11300" />
+    <country countrycodetwoletter="GU" phonecode="1-671" continent="Oceania" capital="Hagatna" olsonforcapital="Pacific/Guam" areakm2="549" />
+    <country countrycodetwoletter="GY" phonecode="592" continent="South America" capital="Georgetown" olsonforcapital="America/Guyana" areakm2="214970" />
+    <country countrycodetwoletter="HK" phonecode="852" continent="Asia" capital="Hong Kong" olsonforcapital="Asia/Hong_Kong" areakm2="1092" />
+    <country countrycodetwoletter="ID" phonecode="62" continent="Asia" capital="Jakarta" olsonforcapital="Asia/Jakarta" areakm2="1919440" />
+    <country countrycodetwoletter="IE" phonecode="353" continent="Europe" capital="Dublin" olsonforcapital="Europe/Dublin" areakm2="70280" />
+    <country countrycodetwoletter="IM" phonecode="44-1624" continent="Europe" capital="Douglas, Isle of Man" olsonforcapital="Europe/Isle_of_Man" areakm2="572" />
+    <country countrycodetwoletter="JE" phonecode="44-1534" continent="Europe" capital="Saint Helier" olsonforcapital="Europe/Jersey" areakm2="116" />
+    <country countrycodetwoletter="JM" phonecode="1-876" continent="North America" capital="Kingston" olsonforcapital="America/Jamaica" areakm2="10991" />
+    <country countrycodetwoletter="KI" phonecode="686" continent="Oceania" capital="Tarawa" olsonforcapital="Pacific/Tarawa" areakm2="811" />
+    <country countrycodetwoletter="KN" phonecode="1-869" continent="North America" capital="Basseterre" olsonforcapital="America/St_Kitts" areakm2="261" />
+    <country countrycodetwoletter="KY" phonecode="1-345" continent="North America" capital="George Town" olsonforcapital="America/Cayman" areakm2="262" />
+    <country countrycodetwoletter="LC" phonecode="1-758" continent="North America" capital="Castries" olsonforcapital="America/St_Lucia" areakm2="616" />
+    <country countrycodetwoletter="LR" phonecode="231" continent="Africa" capital="Monrovia" olsonforcapital="Africa/Monrovia" areakm2="111370" />
+    <country countrycodetwoletter="LS" phonecode="266" continent="Africa" capital="Maseru" olsonforcapital="Africa/Maseru" areakm2="30355" />
+    <country countrycodetwoletter="MG" phonecode="261" continent="Africa" capital="Antananarivo" olsonforcapital="Indian/Antananarivo" areakm2="587040" />
+    <country countrycodetwoletter="MH" phonecode="692" continent="Oceania" capital="Majuro" olsonforcapital="Pacific/Majuro" areakm2="181" />
+    <country countrycodetwoletter="MO" phonecode="853" continent="Asia" capital="Macao" olsonforcapital="Asia/Macau" areakm2="254" />
+    <country countrycodetwoletter="MS" phonecode="1-664" continent="North America" capital="Plymouth" olsonforcapital="America/Montserrat" areakm2="102" />
+    <country countrycodetwoletter="MT" phonecode="356" continent="Europe" capital="Valletta" olsonforcapital="Europe/Malta" areakm2="316" />
+    <country countrycodetwoletter="MU" phonecode="230" continent="Africa" capital="Port Louis" olsonforcapital="Indian/Mauritius" areakm2="2040" />
+    <country countrycodetwoletter="MW" phonecode="265" continent="Africa" capital="Lilongwe" olsonforcapital="Africa/Blantyre" areakm2="118480" />
+    <country countrycodetwoletter="MY" phonecode="60" continent="Asia" capital="Kuala Lumpur" olsonforcapital="Asia/Kuala_Lumpur" areakm2="329750" />
+    <country countrycodetwoletter="NR" phonecode="674" continent="Oceania" capital="Yaren" olsonforcapital="Pacific/Nauru" areakm2="21" />
+    <country countrycodetwoletter="NZ" phonecode="64" continent="Oceania" capital="Wellington" olsonforcapital="Pacific/Auckland" areakm2="268680" />
+    <country countrycodetwoletter="PG" phonecode="675" continent="Oceania" capital="Port Moresby" olsonforcapital="Pacific/Port_Moresby" areakm2="462840" />
+    <country countrycodetwoletter="PH" phonecode="63" continent="Asia" capital="Manila" olsonforcapital="Asia/Manila" areakm2="300000" />
+    <country countrycodetwoletter="PK" phonecode="92" continent="Asia" capital="Islamabad" olsonforcapital="Asia/Karachi" areakm2="803940" />
+    <country countrycodetwoletter="PR" phonecode="1-787, 1-939" continent="North America" capital="San Juan" olsonforcapital="America/Puerto_Rico" areakm2="9104" />
+    <country countrycodetwoletter="PW" phonecode="680" continent="Oceania" capital="Melekeok" olsonforcapital="Pacific/Palau" areakm2="458" />
+    <country countrycodetwoletter="RW" phonecode="250" continent="Africa" capital="Kigali" olsonforcapital="Africa/Kigali" areakm2="26338" />
+    <country countrycodetwoletter="SB" phonecode="677" continent="Oceania" capital="Honiara" olsonforcapital="Pacific/Guadalcanal" areakm2="28450" />
+    <country countrycodetwoletter="SC" phonecode="248" continent="Africa" capital="Victoria" olsonforcapital="Indian/Mahe" areakm2="455" />
+    <country countrycodetwoletter="SG" phonecode="65" continent="Asia" capital="Singapur" olsonforcapital="Asia/Singapore" areakm2="693" />
+    <country countrycodetwoletter="SL" phonecode="232" continent="Africa" capital="Freetown" olsonforcapital="Africa/Freetown" areakm2="71740" />
+    <country countrycodetwoletter="SZ" phonecode="268" continent="Africa" capital="Mbabane" olsonforcapital="Africa/Mbabane" areakm2="17363" />
+    <country countrycodetwoletter="TC" phonecode="1-649" continent="North America" capital="Cockburn Town" olsonforcapital="America/Grand_Turk" areakm2="430" />
+    <country countrycodetwoletter="TO" phonecode="676" continent="Oceania" capital="Nuku&#39;alofa" olsonforcapital="Pacific/Tongatapu" areakm2="748" />
+    <country countrycodetwoletter="TT" phonecode="1-868" continent="North America" capital="Port of Spain" olsonforcapital="America/Port_of_Spain" areakm2="5128" />
+    <country countrycodetwoletter="TV" phonecode="688" continent="Oceania" capital="Funafuti" olsonforcapital="Pacific/Funafuti" areakm2="26" />
+    <country countrycodetwoletter="VC" phonecode="1-784" continent="North America" capital="Kingstown" olsonforcapital="America/St_Vincent" areakm2="389" />
+    <country countrycodetwoletter="VG" phonecode="1-284" continent="North America" capital="Road Town" olsonforcapital="America/Tortola" areakm2="153" />
+    <country countrycodetwoletter="VI" phonecode="1-340" continent="North America" capital="Charlotte Amalie" olsonforcapital="America/St_Thomas" areakm2="352" />
+    <country countrycodetwoletter="VU" phonecode="678" continent="Oceania" capital="Port Vila" olsonforcapital="Pacific/Efate" areakm2="12200" />
+    <country countrycodetwoletter="WS" phonecode="685" continent="Oceania" capital="Apia" olsonforcapital="Pacific/Apia" areakm2="2944" />
+    <country countrycodetwoletter="ZW" phonecode="263" continent="Africa" capital="Harare" olsonforcapital="Africa/Harare" areakm2="390580" />
+    <country countrycodetwoletter="CR" phonecode="506" continent="North America" capital="San Jose" olsonforcapital="America/Costa_Rica" areakm2="51100" />
+    <country countrycodetwoletter="CU" phonecode="53" continent="North America" capital="Havana" olsonforcapital="America/Havana" areakm2="110860" />
+    <country countrycodetwoletter="DO" phonecode="1-809, 1-829, 1-849" continent="North America" capital="Santo Domingo" olsonforcapital="America/Santo_Domingo" areakm2="48730" />
+    <country countrycodetwoletter="EC" phonecode="593" continent="South America" capital="Quito" olsonforcapital="America/Guayaquil" areakm2="283560" />
+    <country countrycodetwoletter="GQ" phonecode="240" continent="Africa" capital="Malabo" olsonforcapital="Africa/Malabo" areakm2="28051" />
+    <country countrycodetwoletter="GT" phonecode="502" continent="North America" capital="Guatemala City" olsonforcapital="America/Guatemala" areakm2="108890" />
+    <country countrycodetwoletter="HN" phonecode="504" continent="North America" capital="Tegucigalpa" olsonforcapital="America/Tegucigalpa" areakm2="112090" />
+    <country countrycodetwoletter="MX" phonecode="52" continent="North America" capital="Mexico City" olsonforcapital="America/Mexico_City" areakm2="1972550" />
+    <country countrycodetwoletter="NI" phonecode="505" continent="North America" capital="Managua" olsonforcapital="America/Managua" areakm2="129494" />
+    <country countrycodetwoletter="PA" phonecode="507" continent="North America" capital="Panama City" olsonforcapital="America/Panama" areakm2="78200" />
+    <country countrycodetwoletter="PE" phonecode="51" continent="South America" capital="Lima" olsonforcapital="America/Lima" areakm2="1285220" />
+    <country countrycodetwoletter="PY" phonecode="595" continent="South America" capital="Asuncion" olsonforcapital="America/Asuncion" areakm2="406750" />
+    <country countrycodetwoletter="SV" phonecode="503" continent="North America" capital="San Salvador" olsonforcapital="America/El_Salvador" areakm2="21040" />
+    <country countrycodetwoletter="UY" phonecode="598" continent="South America" capital="Montevideo" olsonforcapital="America/Montevideo" areakm2="176220" />
+    <country countrycodetwoletter="VE" phonecode="58" continent="South America" capital="Caracas" olsonforcapital="America/Caracas" areakm2="912050" />
+    <country countrycodetwoletter="IR" phonecode="98" continent="Asia" capital="Tehran" olsonforcapital="Asia/Tehran" areakm2="1648000" />
+    <country countrycodetwoletter="GN" phonecode="224" continent="Africa" capital="Conakry" olsonforcapital="Africa/Conakry" areakm2="245857" />
+    <country countrycodetwoletter="FI" phonecode="358" continent="Europe" capital="Helsinki" olsonforcapital="Europe/Helsinki" areakm2="337030" />
+    <country countrycodetwoletter="FO" phonecode="298" continent="Europe" capital="Torshavn" olsonforcapital="Atlantic/Faroe" areakm2="1399" />
+    <country countrycodetwoletter="BF" phonecode="226" continent="Africa" capital="Ouagadougou" olsonforcapital="Africa/Ouagadougou" areakm2="274200" />
+    <country countrycodetwoletter="BI" phonecode="257" continent="Africa" capital="Bujumbura" olsonforcapital="Africa/Bujumbura" areakm2="27830" />
+    <country countrycodetwoletter="BJ" phonecode="229" continent="Africa" capital="Porto-Novo" olsonforcapital="Africa/Porto-Novo" areakm2="112620" />
+    <country countrycodetwoletter="CD" phonecode="243" continent="Africa" capital="Kinshasa" olsonforcapital="Africa/Kinshasa" areakm2="2345410" />
+    <country countrycodetwoletter="CF" phonecode="236" continent="Africa" capital="Bangui" olsonforcapital="Africa/Bangui" areakm2="622984" />
+    <country countrycodetwoletter="CG" phonecode="242" continent="Africa" capital="Brazzaville" olsonforcapital="Africa/Brazzaville" areakm2="342000" />
+    <country countrycodetwoletter="CI" phonecode="225" continent="Africa" capital="Yamoussoukro" olsonforcapital="Africa/Abidjan" areakm2="322460" />
+    <country countrycodetwoletter="GA" phonecode="241" continent="Africa" capital="Libreville" olsonforcapital="Africa/Libreville" areakm2="267667" />
+    <country countrycodetwoletter="GP" phonecode="590" continent="North America" capital="Basse-Terre" olsonforcapital="America/Guadeloupe" areakm2="1628" />
+    <country countrycodetwoletter="HT" phonecode="509" continent="North America" capital="Port-au-Prince" olsonforcapital="America/Port-au-Prince" areakm2="27750" />
+    <country countrycodetwoletter="MC" phonecode="377" continent="Europe" capital="Monaco" olsonforcapital="Europe/Monaco" areakm2="2" />
+    <country countrycodetwoletter="MQ" phonecode="596" continent="North America" capital="Fort-de-France" olsonforcapital="America/Martinique" areakm2="1128" />
+    <country countrycodetwoletter="NC" phonecode="687" continent="Oceania" capital="Noumea" olsonforcapital="Pacific/Noumea" areakm2="19060" />
+    <country countrycodetwoletter="PF" phonecode="689" continent="Oceania" capital="Papeete" olsonforcapital="Pacific/Tahiti" areakm2="4167" />
+    <country countrycodetwoletter="RE" phonecode="262" continent="Africa" capital="Saint-Denis" olsonforcapital="Indian/Reunion" areakm2="2517" />
+    <country countrycodetwoletter="NL" phonecode="31" continent="Europe" capital="Amsterdam" olsonforcapital="Europe/Amsterdam" areakm2="41526" />
+    <country countrycodetwoletter="HR" phonecode="385" continent="Europe" capital="Zagreb" olsonforcapital="Europe/Zagreb" areakm2="56542" />
+    <country countrycodetwoletter="HU" phonecode="36" continent="Europe" capital="Budapest" olsonforcapital="Europe/Budapest" areakm2="93030" />
+    <country countrycodetwoletter="IS" phonecode="354" continent="Europe" capital="Reykjavik" olsonforcapital="Atlantic/Reykjavik" areakm2="103000" />
+    <country countrycodetwoletter="SM" phonecode="378" continent="Europe" capital="San Marino" olsonforcapital="Europe/San_Marino" areakm2="61" />
+    <country countrycodetwoletter="JP" phonecode="81" continent="Asia" capital="Tokyo" olsonforcapital="Asia/Tokyo" areakm2="377835" />
+    <country countrycodetwoletter="GE" phonecode="995" continent="Asia" capital="Tbilisi" olsonforcapital="Asia/Tbilisi" areakm2="69700" />
+    <country countrycodetwoletter="CV" phonecode="238" continent="Africa" capital="Praia" olsonforcapital="Atlantic/Cape_Verde" areakm2="4033" />
+    <country countrycodetwoletter="KZ" phonecode="7" continent="Asia" capital="Astana" olsonforcapital="Asia/Almaty" areakm2="2717300" />
+    <country countrycodetwoletter="KH" phonecode="855" continent="Asia" capital="Phnom Penh" olsonforcapital="Asia/Phnom_Penh" areakm2="181040" />
+    <country countrycodetwoletter="KR" phonecode="82" continent="Asia" capital="Seoul" olsonforcapital="Asia/Seoul" areakm2="98480" />
+    <country countrycodetwoletter="KG" phonecode="996" continent="Asia" capital="Bishkek" olsonforcapital="Asia/Bishkek" areakm2="198500" />
+    <country countrycodetwoletter="LA" phonecode="856" continent="Asia" capital="Vientiane" olsonforcapital="Asia/Vientiane" areakm2="236800" />
+    <country countrycodetwoletter="AO" phonecode="244" continent="Africa" capital="Luanda" olsonforcapital="Africa/Luanda" areakm2="1246700" />
+    <country countrycodetwoletter="LT" phonecode="370" continent="Europe" capital="Vilnius" olsonforcapital="Europe/Vilnius" areakm2="65200" />
+    <country countrycodetwoletter="LV" phonecode="371" continent="Europe" capital="Riga" olsonforcapital="Europe/Riga" areakm2="64589" />
+    <country countrycodetwoletter="MZ" phonecode="258" continent="Africa" capital="Maputo" olsonforcapital="Africa/Maputo" areakm2="801590" />
+    <country countrycodetwoletter="MK" phonecode="389" continent="Europe" capital="Skopje" olsonforcapital="Europe/Skopje" areakm2="25333" />
+    <country countrycodetwoletter="MN" phonecode="976" continent="Asia" capital="Ulan Bator" olsonforcapital="Asia/Ulaanbaatar" areakm2="1565000" />
+    <country countrycodetwoletter="MM" phonecode="95" continent="Asia" capital="Nay Pyi Taw" olsonforcapital="Asia/Rangoon" areakm2="678500" />
+    <country countrycodetwoletter="NO" phonecode="47" continent="Europe" capital="Oslo" olsonforcapital="Europe/Oslo" areakm2="324220" />
+    <country countrycodetwoletter="NP" phonecode="977" continent="Asia" capital="Kathmandu" olsonforcapital="Asia/Kathmandu" areakm2="140800" />
+    <country countrycodetwoletter="AW" phonecode="297" continent="North America" capital="Oranjestad" olsonforcapital="America/Aruba" areakm2="193" />
+    <country countrycodetwoletter="SR" phonecode="597" continent="South America" capital="Paramaribo" olsonforcapital="America/Paramaribo" areakm2="163270" />
+    <country countrycodetwoletter="PL" phonecode="48" continent="Europe" capital="Warsaw" olsonforcapital="Europe/Warsaw" areakm2="312685" />
+    <country countrycodetwoletter="PT" phonecode="351" continent="Europe" capital="Lisbon" olsonforcapital="Europe/Lisbon" areakm2="92391" />
+    <country countrycodetwoletter="GW" phonecode="245" continent="Africa" capital="Bissau" olsonforcapital="Africa/Bissau" areakm2="36120" />
+    <country countrycodetwoletter="ST" phonecode="239" continent="Africa" capital="Sao Tome" olsonforcapital="Africa/Sao_Tome" areakm2="1001" />
+    <country countrycodetwoletter="TL" phonecode="670" continent="Oceania" capital="Dili" olsonforcapital="Asia/Dili" areakm2="15007" />
+    <country countrycodetwoletter="RO" phonecode="40" continent="Europe" capital="Bucharest" olsonforcapital="Europe/Bucharest" areakm2="237500" />
+    <country countrycodetwoletter="MD" phonecode="373" continent="Europe" capital="Chisinau" olsonforcapital="Europe/Chisinau" areakm2="33843" />
+    <country countrycodetwoletter="UA" phonecode="380" continent="Europe" capital="Kiev" olsonforcapital="Europe/Kiev" areakm2="603700" />
+    <country countrycodetwoletter="SE" phonecode="46" continent="Europe" capital="Stockholm" olsonforcapital="Europe/Stockholm" areakm2="449964" />
+    <country countrycodetwoletter="SI" phonecode="386" continent="Europe" capital="Ljubljana" olsonforcapital="Europe/Ljubljana" areakm2="20273" />
+    <country countrycodetwoletter="LK" phonecode="94" continent="Asia" capital="Colombo" olsonforcapital="Asia/Colombo" areakm2="65610" />
+    <country countrycodetwoletter="SK" phonecode="421" continent="Europe" capital="Bratislava" olsonforcapital="Europe/Bratislava" areakm2="48845" />
+    <country countrycodetwoletter="AL" phonecode="355" continent="Europe" capital="Tirana" olsonforcapital="Europe/Tirane" areakm2="28748" />
+    <country countrycodetwoletter="ME" phonecode="382" continent="Europe" capital="Podgorica" olsonforcapital="Europe/Podgorica" areakm2="14026" />
+    <country countrycodetwoletter="RS" phonecode="381" continent="Europe" capital="Belgrade" olsonforcapital="Europe/Belgrade" areakm2="88361" />
+    <country countrycodetwoletter="TJ" phonecode="992" continent="Asia" capital="Dushanbe" olsonforcapital="Asia/Dushanbe" areakm2="143100" />
+    <country countrycodetwoletter="TH" phonecode="66" continent="Asia" capital="Bangkok" olsonforcapital="Asia/Bangkok" areakm2="514000" />
+    <country countrycodetwoletter="TM" phonecode="993" continent="Asia" capital="Ashgabat" olsonforcapital="Asia/Ashgabat" areakm2="488100" />
+    <country countrycodetwoletter="TR" phonecode="90" continent="Asia" capital="Ankara" olsonforcapital="Europe/Istanbul" areakm2="780580" />
+    <country countrycodetwoletter="UZ" phonecode="998" continent="Asia" capital="Tashkent" olsonforcapital="Asia/Tashkent" areakm2="447400" />
+    <country countrycodetwoletter="VN" phonecode="84" continent="Asia" capital="Hanoi" olsonforcapital="Asia/Ho_Chi_Minh" areakm2="329560" />
+    <country countrycodetwoletter="TW" phonecode="886" continent="Asia" capital="Taipei" olsonforcapital="Asia/Taipei" areakm2="35980" />
+
+    <country countrycodetwoletter="BL" phonecode="590" continent="North America" capital="Gustavia" olsonforcapital="America/St_Barthelemy" areakm2="21" />
+    <country countrycodetwoletter="CC" phonecode="61" continent="Asia" capital="West Island" olsonforcapital="Indian/Cocos" areakm2="14" />
+    <country countrycodetwoletter="CW" phonecode="599" continent="North America" capital="Willemstad" olsonforcapital="America/Curacao" areakm2="444" />
+    <country countrycodetwoletter="CX" phonecode="61" continent="Asia" capital="Flying Fish Cove" olsonforcapital="Indian/Christmas" areakm2="135" />
+    <country countrycodetwoletter="EH" phonecode="212" continent="Africa" capital="El-Aaiun" olsonforcapital="Africa/El_Aaiun" areakm2="266000" />
+    <country countrycodetwoletter="FK" phonecode="500" continent="South America" capital="Stanley" olsonforcapital="Atlantic/Stanley" areakm2="12173" />
+    <country countrycodetwoletter="KP" phonecode="850" continent="Asia" capital="Pyongyang" olsonforcapital="Asia/Pyongyang" areakm2="120540" />
+    <country countrycodetwoletter="MF" phonecode="590" continent="North America" capital="Marigot" olsonforcapital="America/Marigot" areakm2="53" />
+    <country countrycodetwoletter="MP" phonecode="670" continent="Oceania" capital="Saipan" olsonforcapital="Pacific/Saipan" areakm2="477" />
+    <country countrycodetwoletter="NU" phonecode="683" continent="Oceania" capital="Alofi" olsonforcapital="Pacific/Niue" areakm2="260" />
+    <country countrycodetwoletter="PM" phonecode="508" continent="North America" capital="Saint-Pierre" olsonforcapital="America/Miquelon" areakm2="242" />
+    <country countrycodetwoletter="PN" phonecode="64" continent="Oceania" capital="Adamstown" olsonforcapital="Pacific/Pitcairn" areakm2="47" />
+    <country countrycodetwoletter="SH" phonecode="290" continent="Africa" capital="Jamestown" olsonforcapital="Atlantic/St_Helena" areakm2="410" />
+    <country countrycodetwoletter="SJ" phonecode="47" continent="Europe" capital="Longyearbyen" olsonforcapital="Arctic/Longyearbyen" areakm2="62049" />
+    <country countrycodetwoletter="SS" phonecode="211" continent="Africa" capital="Juba" olsonforcapital="Africa/Juba" areakm2="644329" />
+    <country countrycodetwoletter="SX" phonecode="721" continent="North America" capital="Philipsburg" olsonforcapital="America/Sint-Maarten" areakm2="34" />
+    <country countrycodetwoletter="TK" phonecode="690" continent="Oceania" capital="" olsonforcapital="Pacific/Fakaofo" areakm2="10" />
+    <country countrycodetwoletter="VA" phonecode="379" continent="Europe" capital="Vatican City" olsonforcapital="Europe/Vatican" areakm2="0" />
+    <country countrycodetwoletter="WF" phonecode="681" continent="Oceania" capital="Mata Utu" olsonforcapital="Pacific/Wallis" areakm2="274" />
+    <country countrycodetwoletter="YT" phonecode="262" continent="Africa" capital="Mamoudzou" olsonforcapital="Indian/Mayotte" areakm2="374" />
+    <country countrycodetwoletter="AX" phonecode="358" continent="Europe" capital="Mariehamn" olsonforcapital="Europe/Mariehamn" areakm2="1580" />
+    <country countrycodetwoletter="BQ" phonecode="599" continent="North America" capital="Kralendijk" olsonforcapital="America/Bonaire" areakm2="328" />
+    <country countrycodetwoletter="GF" phonecode="594" continent="South america" capital="Cayenne" olsonforcapital="America/Cayenne" areakm2="83534" />
+    <country countrycodetwoletter="NF" phonecode="672" continent="Oceania" capital="Kingston" olsonforcapital="Pacific/Norfolk" areakm2="34.6" />
+    <country countrycodetwoletter="TF" phonecode="262" continent="Antarctica" capital="Saint-Pierre" olsonforcapital="Indian/Kerguelen" areakm2="439781" />
+    <country countrycodetwoletter="BV" phonecode="47" continent="Antarctica" capital="" olsonforcapital="Antarctica/Bouvet" areakm2="49" />
+    <country countrycodetwoletter="HM" phonecode="672" continent="Antarctica" capital="" olsonforcapital="Australia/Heard_and_McDonald" areakm2="368" />
+
+    <country countrycodetwoletter="AQ" phonecode="672" continent="Antarctica" capital="" olsonforcapital="Antarctica/South_Pole" areakm2="14000000" />
+    <country countrycodetwoletter="UM" phonecode="1" continent="Oceania" capital="United States Minor Outlying Islands" olsonforcapital="Pacific/Johnston" areakm2="34.2" />
+
+    <country countrycodetwoletter="IO" phonecode="246" continent="Asia" capital="Diego Garcia" olsonforcapital="Indian/Chagos" areakm2="60" />
+    <country countrycodetwoletter="GS" phonecode="500" continent="Antarctica" capital="King Edward Point" olsonforcapital="Atlantic/South_Georgia" areakm2="3903" />
+
+</countries>

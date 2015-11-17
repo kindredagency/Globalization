@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.AssetLibrary.Globalization", "Framework.AssetLibrary.Globalization\Framework.AssetLibrary.Globalization.csproj", "{54593FE5-C514-4987-8A06-058BAD6113F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Prototyping", "Framework.Prototyping\Framework.Prototyping.csproj", "{C790B12C-B248-4D1F-A828-74A73A5A1235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54593FE5-C514-4987-8A06-058BAD6113F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54593FE5-C514-4987-8A06-058BAD6113F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54593FE5-C514-4987-8A06-058BAD6113F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54593FE5-C514-4987-8A06-058BAD6113F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C790B12C-B248-4D1F-A828-74A73A5A1235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C790B12C-B248-4D1F-A828-74A73A5A1235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C790B12C-B248-4D1F-A828-74A73A5A1235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C790B12C-B248-4D1F-A828-74A73A5A1235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
