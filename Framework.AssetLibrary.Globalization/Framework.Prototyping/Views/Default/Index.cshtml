@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Globalization library</h1>
+    <p>List of all countires</p>
     @foreach (var country in GlobalizationFactory.GetCountries())
     {
         <img src="@country.Flag"/>
@@ -21,5 +22,6 @@
         }
         <p>-------------------------</p>
     }
+    
 </body>
 </html>
