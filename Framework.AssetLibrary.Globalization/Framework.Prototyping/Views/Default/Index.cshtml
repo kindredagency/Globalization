@@ -9,17 +9,24 @@
 
     @foreach (var country in GlobalizationFactory.GetCountries())
     {
-        <img src="@country.Flag" />
-        <h3>@country.CountryCodeTwoLetter, @country.CountryName</h3>
-        foreach (var culture in country.Cultures)
+        try
         {
-            <p><strong>Culture :</strong> @culture.CultureEnglishName (@culture.CultureCode), <strong>Currency code:</strong> @culture.CurrencyCode, <strong>Currency native name:</strong> @culture.CurrencyNativeName, <strong>Country native name:</strong> @culture.CountryNativeName</p>
+            <img src="@country.Flag"/>
+            <h3>@country.CountryCodeTwoLetter, @country.CountryName</h3>
+            foreach (var culture in country.Cultures)
+            {
+                <p><strong>Culture :</strong> @culture.CultureEnglishName (@culture.CultureCode), <strong>Currency code:</strong> @culture.CurrencyCode, <strong>Currency native name:</strong> @culture.CurrencyNativeName, <strong>Country native name:</strong> @culture.CountryNativeName</p>
+            }
+            foreach (var time in country.TimeZones)
+            {
+                <p>@time.TimeZone.ZoneName, UTC @time.TimeZone.Utc, Olson: @time.Olson, Other : @(time.Info?.DaylightName)</p>
+            }
+            <p>-------------------------</p>
         }
-        foreach (var time in country.TimeZones)
+        catch
         {
-            <p>@time.TimeZone.ZoneName, UTC @time.TimeZone.Utc, Olson: @time.Olson, Other : @(time.Info?.DaylightName)</p>
+
         }
-        <p>-------------------------</p>
     }
 </body>
 </html>
