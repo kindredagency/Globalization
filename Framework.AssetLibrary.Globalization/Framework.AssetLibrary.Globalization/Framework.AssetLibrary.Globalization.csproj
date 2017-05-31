@@ -333,6 +333,7 @@
     <EmbeddedResource Include="Resources\hm.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Framework.AssetLibrary.Globalization.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
