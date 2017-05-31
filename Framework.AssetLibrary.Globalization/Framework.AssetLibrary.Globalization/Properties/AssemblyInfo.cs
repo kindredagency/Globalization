@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Framework.AssetLibrary.Globalization")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Codereaction Globalization Library")]
+[assembly: AssemblyDescription("Globalization libary to help with ISO standard based Language, Country, Timezone and Culture data sets.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ram Sarangapany")]
 [assembly: AssemblyProduct("Framework.AssetLibrary.Globalization")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
