@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
@@ -12,4 +12,7 @@
     <releaseNotes>Namespace : Framework.AssetLibrary.Globalization</releaseNotes>
     <copyright>Copyright 2017</copyright>
   </metadata>
+  <files>
+    <file src="bin\$configuration$\$id$.pdb" target="lib\net45\" />
+  </files>
 </package>

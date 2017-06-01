@@ -35,6 +35,9 @@
       <HintPath>..\packages\Framework.AssetLibrary.Caching.1.0.0\lib\Framework.AssetLibrary.Caching.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="GitLink, Version=2.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\gitlink.2.4.1\lib\net45\GitLink.exe</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Caching" />
