@@ -11,6 +11,7 @@
     @foreach (var country in GlobalizationFactory.GetCountries())
     {
         <img src="@country.Flag"/>
+       
         <h3>@country.CountryCodeTwoLetter, @country.CountryName</h3>
         foreach (var culture in country.Cultures)
         {

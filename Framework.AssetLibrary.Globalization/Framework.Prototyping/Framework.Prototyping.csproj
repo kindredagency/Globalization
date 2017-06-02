@@ -47,7 +47,7 @@
       <HintPath>..\packages\Framework.AssetLibrary.Caching.1.0.0\lib\Framework.AssetLibrary.Caching.dll</HintPath>
     </Reference>
     <Reference Include="Framework.AssetLibrary.Globalization, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Framework.AssetLibrary.Globalization.2.0.10\lib\net45\Framework.AssetLibrary.Globalization.dll</HintPath>
+      <HintPath>..\packages\Framework.AssetLibrary.Globalization.2.0.12\lib\net45\Framework.AssetLibrary.Globalization.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
